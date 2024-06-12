@@ -1027,7 +1027,7 @@ MonoBehaviour:
   selectedBlocks:
   - {fileID: 744125791}
   selectedCommands:
-  - {fileID: 744125803}
+  - {fileID: 744125801}
   variables: []
   description: 
   stepPause: 0
@@ -1494,7 +1494,7 @@ MonoBehaviour:
   indentLevel: 0
   _duration:
     floatRef: {fileID: 0}
-    floatVal: 3
+    floatVal: 1.2
   durationOLD: 0
 --- !u!1 &749061052
 GameObject:
