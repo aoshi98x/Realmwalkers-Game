@@ -1246,7 +1246,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 2
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_BackGroundColor: {r: 0, g: 0, b: 0, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -4437,6 +4437,7 @@ GameObject:
   - component: {fileID: 2030132460}
   - component: {fileID: 2030132465}
   - component: {fileID: 2030132464}
+  - component: {fileID: 2030132466}
   m_Layer: 0
   m_Name: Flowchart
   m_TagString: Untagged
@@ -4529,7 +4530,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 243.68945
     y: -162.72298
-    width: 115.93406
+    width: 117.058815
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4556,9 +4557,9 @@ MonoBehaviour:
   - {fileID: 2030132346}
   - {fileID: 2030132345}
   - {fileID: 2030132344}
+  - {fileID: 2030132352}
   - {fileID: 2030132343}
   - {fileID: 2030132342}
-  - {fileID: 2030132352}
   - {fileID: 2030132408}
   - {fileID: 2030132313}
   suppressAllAutoSelections: 0
@@ -4575,11 +4576,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 184.20505, y: 310.48837}
+  scrollPos: {x: 208.63942, y: 324.7883}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
-  blockViewHeight: 395
-  zoom: 0.9100001
+  blockViewHeight: 504
+  zoom: 0.85000014
   scrollViewRect:
     serializedVersion: 2
     x: -343
@@ -4587,7 +4588,7 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 2030132308}
+  - {fileID: 2030132410}
   selectedCommands: []
   variables:
   - {fileID: 2030132338}
@@ -4709,7 +4710,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 483.63794
     y: -169.17526
-    width: 80.769226
+    width: 82.94117
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4781,7 +4782,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 496.7179
     y: -245.43173
-    width: 87.36263
+    width: 89.99999
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4833,7 +4834,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 613.598
     y: -170.48416
-    width: 104.94505
+    width: 108.82352
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5600,7 +5601,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 365.19028
     y: 4.9586105
-    width: 110.43956
+    width: 112.352936
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5657,7 +5658,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 97.12839
     y: 0.195755
-    width: 118.13186
+    width: 121.764694
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6548,7 +6549,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 259.09802
     y: -86.48416
-    width: 77.47253
+    width: 75.88235
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6575,6 +6576,7 @@ MonoBehaviour:
   - {fileID: 2030132417}
   - {fileID: 2030132416}
   - {fileID: 2030132415}
+  - {fileID: 2030132466}
   - {fileID: 2030132414}
   - {fileID: 2030132413}
   - {fileID: 2030132412}
@@ -6908,7 +6910,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 112
   indentLevel: 0
-  storyText: "Estamos hablando de mi vida hechicero, \xBFahora qu\xE9 har\xE9?"
+  storyText: "Estamos hablando de mi vida Viejo, \xBFahora qu\xE9 har\xE9?"
   description: 
   character: {fileID: 1689853121}
   portrait: {fileID: 0}
@@ -8101,6 +8103,22 @@ MonoBehaviour:
   itemId: 156
   indentLevel: 0
   commenterName: player pensando
+  commentText: 
+--- !u!114 &2030132466
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2030132304}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea6e8f632db87477eb750446b28d73a3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 158
+  indentLevel: 0
+  commenterName: agregar sonido de recibido
   commentText: 
 --- !u!1 &2123403076
 GameObject:
