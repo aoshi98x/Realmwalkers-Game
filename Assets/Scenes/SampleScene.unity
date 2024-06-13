@@ -4447,6 +4447,8 @@ GameObject:
   - component: {fileID: 2030132462}
   - component: {fileID: 2030132461}
   - component: {fileID: 2030132460}
+  - component: {fileID: 2030132465}
+  - component: {fileID: 2030132464}
   m_Layer: 0
   m_Name: Flowchart
   m_TagString: Untagged
@@ -4539,7 +4541,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 243.68945
     y: -162.72293
-    width: 117
+    width: 121.27659
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4585,19 +4587,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 38.901978, y: 237.48416}
+  scrollPos: {x: 79.41851, y: 165.66602}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 395
-  zoom: 1
+  zoom: 0.94000006
   scrollViewRect:
     serializedVersion: 2
     x: -343
     y: -340
     width: 1114
     height: 859
-  selectedBlocks:
-  - {fileID: 2030132355}
+  selectedBlocks: []
   selectedCommands: []
   variables:
   - {fileID: 2030132338}
@@ -4717,9 +4718,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 482.63794
+    x: 483.63794
     y: -169.17526
-    width: 82
+    width: 84.04256
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4791,7 +4792,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 496.7179
     y: -245.43173
-    width: 89
+    width: 91.489365
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4843,7 +4844,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 613.598
     y: -170.48416
-    width: 108
+    width: 111.702126
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5610,7 +5611,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 365.19028
     y: 4.9586105
-    width: 112
+    width: 115.95744
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5667,7 +5668,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 97.12839
     y: 0.195755
-    width: 121
+    width: 125.53191
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5689,9 +5690,11 @@ MonoBehaviour:
   - {fileID: 2030132440}
   - {fileID: 2030132448}
   - {fileID: 2030132447}
+  - {fileID: 2030132465}
   - {fileID: 2030132446}
   - {fileID: 2030132445}
   - {fileID: 2030132444}
+  - {fileID: 2030132464}
   - {fileID: 2030132453}
   - {fileID: 2030132452}
   - {fileID: 2030132451}
@@ -5994,7 +5997,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 86
   indentLevel: 0
-  storyText: "\xBFSer\xE1 una posibilidad? Usar magia..."
+  storyText: "{b}\xBFSer\xE1 una posibilidad? Usar magia...{/b}"
   description: 
   character: {fileID: 1689853121}
   portrait: {fileID: 0}
@@ -6021,7 +6024,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 84
   indentLevel: 0
-  storyText: Jmmm...
+  storyText: '{b}Jmmm...{/b}'
   description: 
   character: {fileID: 1689853121}
   portrait: {fileID: 0}
@@ -6223,7 +6226,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 78
   indentLevel: 0
-  storyText: Digo, se ve como yo. Se ve humano...
+  storyText: '{b}Digo, se ve como yo. Se ve humano...{/b}'
   description: 
   character: {fileID: 1689853121}
   portrait: {fileID: 0}
@@ -6250,9 +6253,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 71
   indentLevel: 0
-  storyText: "S\xED, la opci\xF3n m\xE1s sensata ser\xE1 quedarme aqu\xED. Mientras
+  storyText: "{b}S\xED, la opci\xF3n m\xE1s sensata ser\xE1 quedarme aqu\xED. Mientras
     dure mi estancia, \xBFpodr\xEDa aprender magia? \xBFEs posible eso para m\xED,
-    que no soy de este mundo?"
+    que no soy de este mundo?{/b}"
   description: 
   character: {fileID: 1689853121}
   portrait: {fileID: 0}
@@ -6366,8 +6369,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 70
   indentLevel: 0
-  storyText: "Creo que mejor bajar\xE9 la cabeza e intentar\xE9 aprender m\xE1s de
-    este sitio, cuando tenga suficiente informaci\xF3n, volver\xE9 a tomar una decisi\xF3n"
+  storyText: "{b}Creo que mejor bajar\xE9 la cabeza e intentar\xE9 aprender m\xE1s
+    de este sitio, cuando tenga suficiente informaci\xF3n, volver\xE9 a tomar una
+    decisi\xF3n{/b}"
   description: 
   character: {fileID: 1689853121}
   portrait: {fileID: 0}
@@ -6394,8 +6398,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 67
   indentLevel: 0
-  storyText: "Bueno, este no es mi mundo, todo es desconocido para m\xED. Ni siquiera
-    s\xE9 si puedo confiar en el viejo..."
+  storyText: "{b}Bueno, este no es mi mundo, todo es desconocido para m\xED. Ni siquiera
+    s\xE9 si puedo confiar en el viejo...{/b}"
   description: 
   character: {fileID: 1689853121}
   portrait: {fileID: 0}
@@ -6555,7 +6559,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 259.09802
     y: -86.48416
-    width: 77
+    width: 78.723404
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -7433,7 +7437,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &2030132444
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -7445,8 +7449,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 139
   indentLevel: 0
-  storyText: 'Por ahora probare a darle esta de la que tengo menos tal vez sea la
-    de menor valor '
+  storyText: '{b}Por ahora probare a darle esta de la que tengo menos tal vez sea
+    la de menor valor{/b}'
   description: 
   character: {fileID: 1689853121}
   portrait: {fileID: 0}
@@ -7461,7 +7465,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &2030132445
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -7478,7 +7482,7 @@ MonoBehaviour:
     donde se ven 2 tipos de monedas
 --- !u!114 &2030132446
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -7490,9 +7494,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 138
   indentLevel: 0
-  storyText: Ahhh rayos.....no cai en cuenta que este es otro mundo y ni siquiera
+  storyText: '{b}Ahhh rayos.....no cai en cuenta que este es otro mundo y ni siquiera
     conosco como funciona su moneda debo calmarme si me nota que no se cuanto vale
-    cada moneda podria aprovecharse de mi, por ahora revisare cuanto me dio ese Viejo
+    cada moneda podria aprovecharse de mi, por ahora revisare cuanto me dio ese Viejo{/b}'
   description: 
   character: {fileID: 1689853121}
   portrait: {fileID: 0}
@@ -7507,7 +7511,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &2030132447
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -7534,7 +7538,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &2030132448
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -7686,7 +7690,7 @@ MonoBehaviour:
     vector3Val: {x: 0, y: 0, z: 0}
 --- !u!114 &2030132449
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -7714,7 +7718,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &2030132450
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -7742,7 +7746,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &2030132451
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -7758,7 +7762,7 @@ MonoBehaviour:
   commentText: (tras un momento procede y saca una bandeja con unas monedas apiladas)
 --- !u!114 &2030132452
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -7787,7 +7791,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &2030132453
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -7814,7 +7818,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &2030132454
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -7842,7 +7846,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &2030132455
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -7859,7 +7863,7 @@ MonoBehaviour:
   commentText: "(se\xF1ala la moneda triangular)(la moneda cuadrada)"
 --- !u!114 &2030132456
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -7887,7 +7891,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &2030132457
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -7903,7 +7907,7 @@ MonoBehaviour:
   commentText: 
 --- !u!114 &2030132458
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -7931,7 +7935,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &2030132459
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -7959,7 +7963,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &2030132460
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -7990,7 +7994,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &2030132461
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -8020,7 +8024,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &2030132462
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -8049,7 +8053,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &2030132463
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -8077,6 +8081,38 @@ MonoBehaviour:
   stopVoiceover: 1
   waitForVO: 0
   setSayDialog: {fileID: 0}
+--- !u!114 &2030132464
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2030132304}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea6e8f632db87477eb750446b28d73a3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 157
+  indentLevel: 0
+  commenterName: fin player pensando
+  commentText: 
+--- !u!114 &2030132465
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2030132304}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea6e8f632db87477eb750446b28d73a3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 156
+  indentLevel: 0
+  commenterName: player pensando
+  commentText: 
 --- !u!1 &2123403076
 GameObject:
   m_ObjectHideFlags: 0
