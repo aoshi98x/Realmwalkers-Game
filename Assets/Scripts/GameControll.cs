@@ -14,15 +14,6 @@ public class GameControll : MonoBehaviour
     [SerializeField] private int positionInHistory = -1;
     public List<string> Scens = new List<string>();
     public string bloqueNombre;
-
-    public void chanceName(TextMeshProUGUI name)
-    {
-        string nombre = name.text.ToString();
-        print(nombre);
-        
-        //flowchart.SetVariable<string>("PlayerName", nombre);
-        Debug.Log("ya tienes otro nombre");
-    }
     public void ActiveShop()
     {
         positionInHistory += 1;

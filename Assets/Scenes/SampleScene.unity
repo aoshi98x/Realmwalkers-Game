@@ -1678,19 +1678,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 607126710}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 1396230100}
-        m_TargetAssemblyTypeName: GameControll, Assembly-CSharp
-        m_MethodName: chanceName
-        m_Mode: 2
-        m_Arguments:
-          m_ObjectArgument: {fileID: 535857073}
-          m_ObjectArgumentAssemblyTypeName: TMPro.TextMeshProUGUI, Unity.TextMeshPro
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!114 &607126710
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4540,8 +4528,8 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 243.68945
-    y: -162.72293
-    width: 121.27659
+    y: -162.72298
+    width: 115.93406
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4587,18 +4575,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 79.41851, y: 165.66602}
+  scrollPos: {x: 184.20505, y: 310.48837}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 395
-  zoom: 0.94000006
+  zoom: 0.9100001
   scrollViewRect:
     serializedVersion: 2
     x: -343
     y: -340
     width: 1114
     height: 859
-  selectedBlocks: []
+  selectedBlocks:
+  - {fileID: 2030132308}
   selectedCommands: []
   variables:
   - {fileID: 2030132338}
@@ -4720,7 +4709,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 483.63794
     y: -169.17526
-    width: 84.04256
+    width: 80.769226
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4792,7 +4781,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 496.7179
     y: -245.43173
-    width: 91.489365
+    width: 87.36263
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4844,7 +4833,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 613.598
     y: -170.48416
-    width: 111.702126
+    width: 104.94505
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5611,7 +5600,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 365.19028
     y: 4.9586105
-    width: 115.95744
+    width: 110.43956
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5668,7 +5657,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 97.12839
     y: 0.195755
-    width: 125.53191
+    width: 118.13186
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6559,7 +6548,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 259.09802
     y: -86.48416
-    width: 78.723404
+    width: 77.47253
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
