@@ -34,21 +34,17 @@ public class SettingsManager : MonoBehaviour
 
     private void Start()
     {
-        if (volumeSlider != null)
+        if (volumeSlider == null || muteButton == null || backButton == null)
         {
-            volumeSlider.onValueChanged.AddListener(SetVolume);
-            volumeSlider.value = AudioListener.volume * 100; // Initialize slider value
+            Debug.LogWarning("One or more UI elements are not assigned.");
+            return;
         }
 
-        if (muteButton != null)
-        {
-            muteButton.onClick.AddListener(ToggleMute);
-        }
+        volumeSlider.onValueChanged.AddListener(SetVolume);
+        volumeSlider.value = AudioListener.volume * 100; // Initialize slider value
 
-        if (backButton != null)
-        {
-            backButton.onClick.AddListener(GoBack);
-        }
+        muteButton.onClick.AddListener(ToggleMute);
+        backButton.onClick.AddListener(GoBack);
 
         // Load music state sprites from Resources
         LoadMusicStateSprites();
@@ -73,14 +69,9 @@ public class SettingsManager : MonoBehaviour
     // Method to toggle options panel
     public void ToggleOptionsPanel()
     {
-        if (optionsPanel != null)
-        {
-            optionsPanel.SetActive(!optionsPanel.activeSelf);
-        }
-        else
-        {
-            Debug.LogWarning("Options Panel is not assigned.");
-        }
+        if (optionsPanel == null) return;
+
+        optionsPanel.SetActive(!optionsPanel.activeSelf);
     }
 
     // Method to set volume
