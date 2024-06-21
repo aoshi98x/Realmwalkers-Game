@@ -1356,9 +1356,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0694e24782ad4474182d48bd73323f92, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  characterStats:
-  - {fileID: 0}
-  - {fileID: 0}
+  enemySprite: {fileID: 0}
   weaponStats: []
   lifePointsPlayer: {fileID: 6590716780841318367}
   lifePointsEnemy: {fileID: 6590716780387957547}
@@ -2070,9 +2068,9 @@ MonoBehaviour:
   m_HandleRect: {fileID: 0}
   m_Direction: 0
   m_MinValue: 0
-  m_MaxValue: 1
+  m_MaxValue: 100
   m_WholeNumbers: 0
-  m_Value: 1
+  m_Value: 100
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls: []
@@ -3185,9 +3183,9 @@ MonoBehaviour:
   m_HandleRect: {fileID: 0}
   m_Direction: 0
   m_MinValue: 0
-  m_MaxValue: 1
+  m_MaxValue: 100
   m_WholeNumbers: 0
-  m_Value: 1
+  m_Value: 100
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls: []

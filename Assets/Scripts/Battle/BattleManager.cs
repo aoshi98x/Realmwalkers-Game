@@ -6,22 +6,20 @@ using UnityEngine.UI;
 public class BattleManager : MonoBehaviour
 {
     [Header ("Info To Battle")]
-    public CharacterStats[] characterStats;
+
+    [SerializeField] Sprite enemySprite;
     public List<WeaponStats> weaponStats = new List<WeaponStats>();
 
     [Header ("Inteface Elements")]
     [SerializeField] Slider lifePointsPlayer;
     [SerializeField] Slider lifePointsEnemy;
-    //
-    // Start is called before the first frame update
+   
     void Start()
     {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
+        /*
+        enemySprite = DataBattleManager.Instance.EnemySprite();
+        lifePointsPlayer.value = DataBattleManager.Instance.PlayerStats.lifePoints; 
+        lifePointsEnemy.value = DataBattleManager.Instance.ActualEnemyStats.lifePoints;
+        */ 
     }
 }
