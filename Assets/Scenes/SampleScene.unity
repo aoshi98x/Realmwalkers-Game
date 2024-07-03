@@ -3910,9 +3910,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 2030132355}
+  - {fileID: 2030132354}
   selectedCommands:
-  - {fileID: 2030132536}
+  - {fileID: 2030132519}
   variables:
   - {fileID: 2030132338}
   - {fileID: 2030132351}
@@ -4924,8 +4924,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 366.56015
-    y: 2.2188854
+    x: 365.19028
+    y: 3.588748
     width: 111.643814
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
@@ -5732,7 +5732,7 @@ MonoBehaviour:
   itemId: 70
   indentLevel: 0
   storyText: "Creo que mejor bajar\xE9 la cabeza e intentar\xE9 aprender m\xE1s de
-    este sitio, cuando tenga suficiente informaci\xF3n"
+    este sitio, cuando tenga suficiente"
   description: 
   character: {fileID: 1689853121}
   portrait: {fileID: 0}
@@ -8876,7 +8876,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 205
   indentLevel: 0
-  storyText: "volver\xE9 a tomar una decisi\xF3n"
+  storyText: "informaci\xF3n volver\xE9 a tomar una decisi\xF3n"
   description: 
   character: {fileID: 1689853121}
   portrait: {fileID: 0}
