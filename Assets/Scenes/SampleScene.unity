@@ -229,7 +229,7 @@ Transform:
   m_Children:
   - {fileID: 849959755}
   m_Father: {fileID: 0}
-  m_RootOrder: 10
+  m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &102608483
 GameObject:
@@ -312,7 +312,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 12
+  m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &143506626
 GameObject:
@@ -2180,7 +2180,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 22495640, guid: 7a4c270a5c18f6549a7683844dbf9f22, type: 3}
       propertyPath: m_RootOrder
-      value: 9
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 22495640, guid: 7a4c270a5c18f6549a7683844dbf9f22, type: 3}
       propertyPath: m_AnchorMax.x
@@ -2690,7 +2690,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1450558704
 GameObject:
@@ -2880,7 +2880,7 @@ Transform:
   m_Children:
   - {fileID: 1384270145}
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1520158087
 GameObject:
@@ -3238,7 +3238,7 @@ Transform:
   - {fileID: 1689853122}
   - {fileID: 1321016951}
   m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1773464365
 GameObject:
@@ -3414,7 +3414,7 @@ RectTransform:
   m_Children:
   - {fileID: 1450558705}
   m_Father: {fileID: 0}
-  m_RootOrder: 11
+  m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -3464,7 +3464,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1979403331
 GameObject:
@@ -3740,6 +3740,17 @@ GameObject:
   - component: {fileID: 2030132523}
   - component: {fileID: 2030132525}
   - component: {fileID: 2030132524}
+  - component: {fileID: 2030132529}
+  - component: {fileID: 2030132530}
+  - component: {fileID: 2030132531}
+  - component: {fileID: 2030132528}
+  - component: {fileID: 2030132527}
+  - component: {fileID: 2030132526}
+  - component: {fileID: 2030132536}
+  - component: {fileID: 2030132533}
+  - component: {fileID: 2030132534}
+  - component: {fileID: 2030132535}
+  - component: {fileID: 2030132532}
   m_Layer: 0
   m_Name: Flowchart
   m_TagString: Untagged
@@ -3887,7 +3898,7 @@ MonoBehaviour:
   scrollPos: {x: 343.0309, y: 225.39447}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
-  blockViewHeight: 200
+  blockViewHeight: 582
   zoom: 0.73000026
   scrollViewRect:
     serializedVersion: 2
@@ -3895,8 +3906,10 @@ MonoBehaviour:
     y: -340
     width: 1114
     height: 859
-  selectedBlocks: []
-  selectedCommands: []
+  selectedBlocks:
+  - {fileID: 2030132355}
+  selectedCommands:
+  - {fileID: 2030132532}
   variables:
   - {fileID: 2030132338}
   - {fileID: 2030132351}
@@ -3926,7 +3939,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &2030132311
 MonoBehaviour:
@@ -4925,18 +4938,22 @@ MonoBehaviour:
   - {fileID: 2030132374}
   - {fileID: 2030132520}
   - {fileID: 2030132402}
+  - {fileID: 2030132531}
   - {fileID: 2030132401}
   - {fileID: 2030132400}
   - {fileID: 2030132519}
   - {fileID: 2030132399}
+  - {fileID: 2030132530}
   - {fileID: 2030132398}
   - {fileID: 2030132397}
   - {fileID: 2030132396}
+  - {fileID: 2030132529}
   - {fileID: 2030132395}
   - {fileID: 2030132518}
   - {fileID: 2030132394}
   - {fileID: 2030132393}
   - {fileID: 2030132392}
+  - {fileID: 2030132528}
   - {fileID: 2030132391}
   - {fileID: 2030132390}
   - {fileID: 2030132389}
@@ -4944,9 +4961,11 @@ MonoBehaviour:
   - {fileID: 2030132517}
   - {fileID: 2030132387}
   - {fileID: 2030132386}
+  - {fileID: 2030132527}
   - {fileID: 2030132385}
   - {fileID: 2030132384}
   - {fileID: 2030132383}
+  - {fileID: 2030132526}
   - {fileID: 2030132382}
   - {fileID: 2030132516}
   - {fileID: 2030132381}
@@ -4992,12 +5011,14 @@ MonoBehaviour:
   - {fileID: 2030132434}
   - {fileID: 2030132433}
   - {fileID: 2030132511}
+  - {fileID: 2030132536}
   - {fileID: 2030132443}
   - {fileID: 2030132510}
   - {fileID: 2030132441}
   - {fileID: 2030132442}
   - {fileID: 2030132509}
   - {fileID: 2030132508}
+  - {fileID: 2030132535}
   - {fileID: 2030132440}
   - {fileID: 2030132448}
   - {fileID: 2030132507}
@@ -5005,12 +5026,14 @@ MonoBehaviour:
   - {fileID: 2030132505}
   - {fileID: 2030132447}
   - {fileID: 2030132465}
+  - {fileID: 2030132534}
   - {fileID: 2030132446}
   - {fileID: 2030132504}
   - {fileID: 2030132503}
   - {fileID: 2030132445}
   - {fileID: 2030132444}
   - {fileID: 2030132464}
+  - {fileID: 2030132533}
   - {fileID: 2030132453}
   - {fileID: 2030132452}
   - {fileID: 2030132502}
@@ -5039,6 +5062,7 @@ MonoBehaviour:
   - {fileID: 2030132491}
   - {fileID: 2030132467}
   - {fileID: 2030132490}
+  - {fileID: 2030132532}
   - {fileID: 2030132463}
   - {fileID: 2030132489}
   - {fileID: 2030132488}
@@ -5332,7 +5356,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 86
   indentLevel: 0
-  storyText: "{b}\xBFSer\xE1 una posibilidad? Usar magia...{/b}"
+  storyText: "\xBFSer\xE1 una posibilidad? Usar magia..."
   description: 
   character: {fileID: 1689853121}
   portrait: {fileID: 0}
@@ -5359,7 +5383,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 84
   indentLevel: 0
-  storyText: '{b}Jmmm...{/b}'
+  storyText: Jmmm...
   description: 
   character: {fileID: 1689853121}
   portrait: {fileID: 0}
@@ -5560,7 +5584,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 78
   indentLevel: 0
-  storyText: '{b}Digo, se ve como yo. Se ve humano...{/b}'
+  storyText: Digo, se ve como yo. Se ve humano...
   description: 
   character: {fileID: 1689853121}
   portrait: {fileID: 0}
@@ -5587,8 +5611,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 71
   indentLevel: 0
-  storyText: "{b}S\xED, la opci\xF3n m\xE1s sensata ser\xE1 quedarme aqu\xED. Mientras
-    dure mi estancia, \xBFpodr\xEDa aprender magia?{/b}"
+  storyText: "S\xED, la opci\xF3n m\xE1s sensata ser\xE1 quedarme aqu\xED. Mientras
+    dure mi estancia, \xBFpodr\xEDa aprender magia?"
   description: 
   character: {fileID: 1689853121}
   portrait: {fileID: 0}
@@ -5702,8 +5726,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 70
   indentLevel: 0
-  storyText: "{b}Creo que mejor bajar\xE9 la cabeza e intentar\xE9 aprender m\xE1s
-    de este sitio, cuando tenga suficiente informaci\xF3n{/b}"
+  storyText: "Creo que mejor bajar\xE9 la cabeza e intentar\xE9 aprender m\xE1s de
+    este sitio, cuando tenga suficiente informaci\xF3n"
   description: 
   character: {fileID: 1689853121}
   portrait: {fileID: 0}
@@ -5730,8 +5754,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 67
   indentLevel: 0
-  storyText: "{b}Bueno, este no es mi mundo, todo es desconocido para m\xED. Ni siquiera
-    s\xE9 si puedo confiar en el viejo...{/b}"
+  storyText: "Bueno, este no es mi mundo, todo es desconocido para m\xED. Ni siquiera
+    s\xE9 si puedo confiar en el viejo..."
   description: 
   character: {fileID: 1689853121}
   portrait: {fileID: 0}
@@ -6757,8 +6781,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 139
   indentLevel: 0
-  storyText: '{b}Por ahora probare a darle esta de la que tengo menos tal vez sea
-    la de menor valor{/b}'
+  storyText: Por ahora probare a darle esta de la que tengo menos tal vez sea la
+    de menor valor
   description: 
   character: {fileID: 1689853121}
   portrait: {fileID: 0}
@@ -6802,8 +6826,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 138
   indentLevel: 0
-  storyText: '{b}Ahhh rayos,no cai en cuenta que este es otro mundo y ni siquiera
-    conosco como funciona su moneda{/b}'
+  storyText: Ahhh rayos,no cai en cuenta que este es otro mundo y ni siquiera conosco
+    como funciona su moneda
   description: 
   character: {fileID: 1689853121}
   portrait: {fileID: 0}
@@ -8407,7 +8431,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 182
   indentLevel: 0
-  storyText: ' {b} por ahora revisare cuanto me dio ese Viejo{/b}'
+  storyText: por ahora revisare cuanto me dio ese Viejo
   description: 
   character: {fileID: 1689853121}
   portrait: {fileID: 0}
@@ -8434,8 +8458,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 181
   indentLevel: 0
-  storyText: ' {b}debo calmarme,si me nota que no se cuanto vale cada moneda podria
-    aprovecharse de mi{/b}'
+  storyText: debo calmarme,si me nota que no se cuanto vale cada moneda podria aprovecharse
+    de mi
   description: 
   character: {fileID: 1689853121}
   portrait: {fileID: 0}
@@ -8819,7 +8843,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 206
   indentLevel: 0
-  storyText: "{b}\xBFEs posible eso para m\xED, que no soy de este mundo?{/b}"
+  storyText: "\xBFEs posible eso para m\xED, que no soy de este mundo?"
   description: 
   character: {fileID: 1689853121}
   portrait: {fileID: 0}
@@ -8846,7 +8870,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 205
   indentLevel: 0
-  storyText: "{b}volver\xE9 a tomar una decisi\xF3n{/b}"
+  storyText: "volver\xE9 a tomar una decisi\xF3n"
   description: 
   character: {fileID: 1689853121}
   portrait: {fileID: 0}
@@ -8977,6 +9001,171 @@ MonoBehaviour:
   itemId: 214
   indentLevel: 0
   sayDialog: {fileID: 665195592}
+--- !u!114 &2030132526
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2030132304}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d65d551a201c94bc79950076ff3eaf2e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 221
+  indentLevel: 0
+  sayDialog: {fileID: 665195592}
+--- !u!114 &2030132527
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2030132304}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d65d551a201c94bc79950076ff3eaf2e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 220
+  indentLevel: 0
+  sayDialog: {fileID: 2872593285099765529}
+--- !u!114 &2030132528
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2030132304}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d65d551a201c94bc79950076ff3eaf2e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 219
+  indentLevel: 0
+  sayDialog: {fileID: 1039526179}
+--- !u!114 &2030132529
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2030132304}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d65d551a201c94bc79950076ff3eaf2e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 216
+  indentLevel: 0
+  sayDialog: {fileID: 2872593285099765529}
+--- !u!114 &2030132530
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2030132304}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d65d551a201c94bc79950076ff3eaf2e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 217
+  indentLevel: 0
+  sayDialog: {fileID: 1039526179}
+--- !u!114 &2030132531
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2030132304}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d65d551a201c94bc79950076ff3eaf2e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 218
+  indentLevel: 0
+  sayDialog: {fileID: 2872593285099765529}
+--- !u!114 &2030132532
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2030132304}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d65d551a201c94bc79950076ff3eaf2e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 226
+  indentLevel: 0
+  sayDialog: {fileID: 665195592}
+--- !u!114 &2030132533
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2030132304}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d65d551a201c94bc79950076ff3eaf2e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 223
+  indentLevel: 0
+  sayDialog: {fileID: 1039526179}
+--- !u!114 &2030132534
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2030132304}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d65d551a201c94bc79950076ff3eaf2e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 224
+  indentLevel: 0
+  sayDialog: {fileID: 2872593285099765529}
+--- !u!114 &2030132535
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2030132304}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d65d551a201c94bc79950076ff3eaf2e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 225
+  indentLevel: 0
+  sayDialog: {fileID: 1039526179}
+--- !u!114 &2030132536
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2030132304}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d65d551a201c94bc79950076ff3eaf2e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 222
+  indentLevel: 0
+  sayDialog: {fileID: 665195592}
 --- !u!1001 &2113761004
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9022,7 +9211,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 22415102, guid: 9bb64c8df70904eecac3f71f81bf339b, type: 3}
       propertyPath: m_RootOrder
-      value: 3
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 22415102, guid: 9bb64c8df70904eecac3f71f81bf339b, type: 3}
       propertyPath: m_AnchorMax.x
@@ -9263,6 +9452,122 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ee8371d2b2fe14a9ca0a9465140027de, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!1001 &2872593285099765528
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1147583744718190681, guid: a7f758bb0eaf7de498dbbbca0f39e4dc, type: 3}
+      propertyPath: m_Name
+      value: Think
+      objectReference: {fileID: 0}
+    - target: {fileID: 3693715457866037466, guid: a7f758bb0eaf7de498dbbbca0f39e4dc, type: 3}
+      propertyPath: m_FontData.m_MinSize
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3693715457866037466, guid: a7f758bb0eaf7de498dbbbca0f39e4dc, type: 3}
+      propertyPath: m_FontData.m_FontSize
+      value: 35
+      objectReference: {fileID: 0}
+    - target: {fileID: 6031264672592251332, guid: a7f758bb0eaf7de498dbbbca0f39e4dc, type: 3}
+      propertyPath: m_Pivot.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6031264672592251332, guid: a7f758bb0eaf7de498dbbbca0f39e4dc, type: 3}
+      propertyPath: m_Pivot.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6031264672592251332, guid: a7f758bb0eaf7de498dbbbca0f39e4dc, type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6031264672592251332, guid: a7f758bb0eaf7de498dbbbca0f39e4dc, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6031264672592251332, guid: a7f758bb0eaf7de498dbbbca0f39e4dc, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6031264672592251332, guid: a7f758bb0eaf7de498dbbbca0f39e4dc, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6031264672592251332, guid: a7f758bb0eaf7de498dbbbca0f39e4dc, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6031264672592251332, guid: a7f758bb0eaf7de498dbbbca0f39e4dc, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6031264672592251332, guid: a7f758bb0eaf7de498dbbbca0f39e4dc, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6031264672592251332, guid: a7f758bb0eaf7de498dbbbca0f39e4dc, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6031264672592251332, guid: a7f758bb0eaf7de498dbbbca0f39e4dc, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6031264672592251332, guid: a7f758bb0eaf7de498dbbbca0f39e4dc, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6031264672592251332, guid: a7f758bb0eaf7de498dbbbca0f39e4dc, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6031264672592251332, guid: a7f758bb0eaf7de498dbbbca0f39e4dc, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6031264672592251332, guid: a7f758bb0eaf7de498dbbbca0f39e4dc, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6031264672592251332, guid: a7f758bb0eaf7de498dbbbca0f39e4dc, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6031264672592251332, guid: a7f758bb0eaf7de498dbbbca0f39e4dc, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6031264672592251332, guid: a7f758bb0eaf7de498dbbbca0f39e4dc, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6031264672592251332, guid: a7f758bb0eaf7de498dbbbca0f39e4dc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6031264672592251332, guid: a7f758bb0eaf7de498dbbbca0f39e4dc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6031264672592251332, guid: a7f758bb0eaf7de498dbbbca0f39e4dc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a7f758bb0eaf7de498dbbbca0f39e4dc, type: 3}
+--- !u!114 &2872593285099765529 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 3305578676317018075, guid: a7f758bb0eaf7de498dbbbca0f39e4dc, type: 3}
+  m_PrefabInstance: {fileID: 2872593285099765528}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a0bbe22c246e4c78ad8e9816cbae9d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1001 &7990417375064465752
