@@ -123,17 +123,6 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
---- !u!114 &1487125864 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 8437932312105968002, guid: 9a29ebe273416be4fadae048f51d991b, type: 3}
-  m_PrefabInstance: {fileID: 6590716780665619060}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2a4db7a114972834c8e4117be1d82ba3, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1639391739
 GameObject:
   m_ObjectHideFlags: 0
@@ -426,33 +415,5 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1715692430}
-    - target: {fileID: 6590716781997620224, guid: 9a29ebe273416be4fadae048f51d991b, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 6590716781997620224, guid: 9a29ebe273416be4fadae048f51d991b, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[2].m_Mode
-      value: 4
-      objectReference: {fileID: 0}
-    - target: {fileID: 6590716781997620224, guid: 9a29ebe273416be4fadae048f51d991b, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[2].m_Target
-      value: 
-      objectReference: {fileID: 1487125864}
-    - target: {fileID: 6590716781997620224, guid: 9a29ebe273416be4fadae048f51d991b, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[2].m_CallState
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 6590716781997620224, guid: 9a29ebe273416be4fadae048f51d991b, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[2].m_MethodName
-      value: set_value
-      objectReference: {fileID: 0}
-    - target: {fileID: 6590716781997620224, guid: 9a29ebe273416be4fadae048f51d991b, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[2].m_TargetAssemblyTypeName
-      value: UnityEngine.UI.Scrollbar, UnityEngine.UI
-      objectReference: {fileID: 0}
-    - target: {fileID: 6590716781997620224, guid: 9a29ebe273416be4fadae048f51d991b, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[2].m_Arguments.m_ObjectArgumentAssemblyTypeName
-      value: UnityEngine.Object, UnityEngine
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a29ebe273416be4fadae048f51d991b, type: 3}

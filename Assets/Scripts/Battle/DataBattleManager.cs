@@ -33,7 +33,7 @@ public class DataBattleManager : MonoBehaviour
         SpriteRenderer enemy = GameObject.FindWithTag("Enemy").GetComponent<SpriteRenderer>();
         return enemy.sprite;
     }
-    void GiveExperience(CharacterStats player, EnemyStats enemy) 
+    public void GiveExperience(CharacterStats player, EnemyStats enemy) 
     {
         player.experiencePoints += enemy.experienceDelivered;
     }
