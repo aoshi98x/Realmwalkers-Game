@@ -9161,9 +9161,6 @@ GameObject:
   - component: {fileID: 2030132643}
   - component: {fileID: 2030132663}
   - component: {fileID: 2030132662}
-  - component: {fileID: 2030132661}
-  - component: {fileID: 2030132660}
-  - component: {fileID: 2030132659}
   - component: {fileID: 2030132657}
   - component: {fileID: 2030132653}
   - component: {fileID: 2030132655}
@@ -9171,9 +9168,6 @@ GameObject:
   - component: {fileID: 2030132654}
   - component: {fileID: 2030132652}
   - component: {fileID: 2030132658}
-  - component: {fileID: 2030132651}
-  - component: {fileID: 2030132650}
-  - component: {fileID: 2030132649}
   - component: {fileID: 2030132647}
   - component: {fileID: 2030132648}
   - component: {fileID: 2030132666}
@@ -9183,53 +9177,19 @@ GameObject:
   - component: {fileID: 2030132669}
   - component: {fileID: 2030132668}
   - component: {fileID: 2030132710}
-  - component: {fileID: 2030132709}
-  - component: {fileID: 2030132708}
-  - component: {fileID: 2030132707}
-  - component: {fileID: 2030132706}
   - component: {fileID: 2030132704}
   - component: {fileID: 2030132705}
   - component: {fileID: 2030132703}
-  - component: {fileID: 2030132702}
   - component: {fileID: 2030132701}
-  - component: {fileID: 2030132700}
   - component: {fileID: 2030132699}
-  - component: {fileID: 2030132698}
-  - component: {fileID: 2030132697}
-  - component: {fileID: 2030132696}
-  - component: {fileID: 2030132695}
   - component: {fileID: 2030132692}
   - component: {fileID: 2030132693}
-  - component: {fileID: 2030132694}
   - component: {fileID: 2030132691}
-  - component: {fileID: 2030132690}
-  - component: {fileID: 2030132689}
-  - component: {fileID: 2030132688}
-  - component: {fileID: 2030132687}
-  - component: {fileID: 2030132686}
-  - component: {fileID: 2030132685}
-  - component: {fileID: 2030132684}
-  - component: {fileID: 2030132683}
-  - component: {fileID: 2030132682}
-  - component: {fileID: 2030132681}
-  - component: {fileID: 2030132680}
-  - component: {fileID: 2030132679}
-  - component: {fileID: 2030132678}
-  - component: {fileID: 2030132677}
-  - component: {fileID: 2030132676}
-  - component: {fileID: 2030132675}
-  - component: {fileID: 2030132674}
   - component: {fileID: 2030132673}
-  - component: {fileID: 2030132672}
-  - component: {fileID: 2030132671}
   - component: {fileID: 2030132789}
   - component: {fileID: 2030132788}
   - component: {fileID: 2030132787}
   - component: {fileID: 2030132786}
-  - component: {fileID: 2030132785}
-  - component: {fileID: 2030132784}
-  - component: {fileID: 2030132783}
-  - component: {fileID: 2030132782}
   - component: {fileID: 2030132781}
   - component: {fileID: 2030132780}
   - component: {fileID: 2030132779}
@@ -9237,114 +9197,58 @@ GameObject:
   - component: {fileID: 2030132777}
   - component: {fileID: 2030132776}
   - component: {fileID: 2030132775}
-  - component: {fileID: 2030132774}
-  - component: {fileID: 2030132773}
   - component: {fileID: 2030132772}
   - component: {fileID: 2030132771}
   - component: {fileID: 2030132770}
-  - component: {fileID: 2030132769}
-  - component: {fileID: 2030132768}
   - component: {fileID: 2030132713}
   - component: {fileID: 2030132767}
   - component: {fileID: 2030132766}
   - component: {fileID: 2030132765}
-  - component: {fileID: 2030132764}
-  - component: {fileID: 2030132763}
-  - component: {fileID: 2030132762}
-  - component: {fileID: 2030132761}
-  - component: {fileID: 2030132760}
-  - component: {fileID: 2030132759}
-  - component: {fileID: 2030132758}
-  - component: {fileID: 2030132757}
   - component: {fileID: 2030132756}
   - component: {fileID: 2030132755}
   - component: {fileID: 2030132753}
   - component: {fileID: 2030132754}
-  - component: {fileID: 2030132752}
-  - component: {fileID: 2030132751}
   - component: {fileID: 2030132750}
   - component: {fileID: 2030132749}
   - component: {fileID: 2030132744}
   - component: {fileID: 2030132747}
-  - component: {fileID: 2030132746}
-  - component: {fileID: 2030132745}
-  - component: {fileID: 2030132748}
-  - component: {fileID: 2030132743}
-  - component: {fileID: 2030132742}
-  - component: {fileID: 2030132741}
-  - component: {fileID: 2030132740}
-  - component: {fileID: 2030132739}
   - component: {fileID: 2030132736}
   - component: {fileID: 2030132737}
-  - component: {fileID: 2030132738}
-  - component: {fileID: 2030132735}
   - component: {fileID: 2030132734}
   - component: {fileID: 2030132733}
-  - component: {fileID: 2030132732}
-  - component: {fileID: 2030132731}
   - component: {fileID: 2030132730}
   - component: {fileID: 2030132729}
   - component: {fileID: 2030132711}
   - component: {fileID: 2030132728}
   - component: {fileID: 2030132727}
-  - component: {fileID: 2030132726}
   - component: {fileID: 2030132725}
   - component: {fileID: 2030132724}
   - component: {fileID: 2030132723}
   - component: {fileID: 2030132719}
-  - component: {fileID: 2030132722}
-  - component: {fileID: 2030132721}
-  - component: {fileID: 2030132720}
   - component: {fileID: 2030132716}
   - component: {fileID: 2030132718}
-  - component: {fileID: 2030132715}
   - component: {fileID: 2030132717}
   - component: {fileID: 2030132714}
   - component: {fileID: 2030132800}
   - component: {fileID: 2030132799}
   - component: {fileID: 2030132798}
   - component: {fileID: 2030132797}
-  - component: {fileID: 2030132796}
-  - component: {fileID: 2030132795}
-  - component: {fileID: 2030132794}
-  - component: {fileID: 2030132793}
-  - component: {fileID: 2030132792}
-  - component: {fileID: 2030132791}
-  - component: {fileID: 2030132790}
   - component: {fileID: 2030132835}
   - component: {fileID: 2030132834}
-  - component: {fileID: 2030132833}
-  - component: {fileID: 2030132832}
-  - component: {fileID: 2030132831}
   - component: {fileID: 2030132830}
   - component: {fileID: 2030132829}
-  - component: {fileID: 2030132828}
-  - component: {fileID: 2030132827}
   - component: {fileID: 2030132826}
   - component: {fileID: 2030132825}
-  - component: {fileID: 2030132824}
-  - component: {fileID: 2030132823}
-  - component: {fileID: 2030132822}
-  - component: {fileID: 2030132821}
   - component: {fileID: 2030132817}
   - component: {fileID: 2030132818}
-  - component: {fileID: 2030132820}
-  - component: {fileID: 2030132816}
-  - component: {fileID: 2030132815}
   - component: {fileID: 2030132813}
   - component: {fileID: 2030132814}
   - component: {fileID: 2030132809}
   - component: {fileID: 2030132819}
   - component: {fileID: 2030132808}
   - component: {fileID: 2030132812}
-  - component: {fileID: 2030132807}
   - component: {fileID: 2030132810}
   - component: {fileID: 2030132811}
-  - component: {fileID: 2030132806}
-  - component: {fileID: 2030132805}
-  - component: {fileID: 2030132804}
-  - component: {fileID: 2030132803}
-  - component: {fileID: 2030132802}
   - component: {fileID: 2030132801}
   - component: {fileID: 2030132836}
   - component: {fileID: 2030132837}
@@ -9369,6 +9273,9 @@ GameObject:
   - component: {fileID: 2030132851}
   - component: {fileID: 2030132857}
   - component: {fileID: 2030132858}
+  - component: {fileID: 2030132859}
+  - component: {fileID: 2030132861}
+  - component: {fileID: 2030132860}
   m_Layer: 0
   m_Name: Flowchart
   m_TagString: Untagged
@@ -9488,7 +9395,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 155.66862, y: 264.04666}
+  scrollPos: {x: 134.01915, y: 73.32499}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 562
@@ -9500,9 +9407,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 2030132548}
+  - {fileID: 2030132713}
   selectedCommands:
-  - {fileID: 2030132663}
+  - {fileID: 2030132817}
   variables:
   - {fileID: 2030132338}
   - {fileID: 2030132351}
@@ -14215,9 +14122,6 @@ MonoBehaviour:
   - {fileID: 2030132857}
   - {fileID: 2030132663}
   - {fileID: 2030132662}
-  - {fileID: 2030132661}
-  - {fileID: 2030132660}
-  - {fileID: 2030132659}
   - {fileID: 2030132658}
   - {fileID: 2030132657}
   - {fileID: 2030132656}
@@ -14225,59 +14129,23 @@ MonoBehaviour:
   - {fileID: 2030132654}
   - {fileID: 2030132653}
   - {fileID: 2030132652}
-  - {fileID: 2030132651}
-  - {fileID: 2030132650}
-  - {fileID: 2030132649}
   - {fileID: 2030132648}
   - {fileID: 2030132647}
   - {fileID: 2030132710}
-  - {fileID: 2030132709}
-  - {fileID: 2030132708}
-  - {fileID: 2030132707}
-  - {fileID: 2030132706}
   - {fileID: 2030132705}
   - {fileID: 2030132704}
   - {fileID: 2030132703}
-  - {fileID: 2030132702}
   - {fileID: 2030132701}
-  - {fileID: 2030132700}
   - {fileID: 2030132699}
-  - {fileID: 2030132698}
-  - {fileID: 2030132697}
-  - {fileID: 2030132696}
-  - {fileID: 2030132695}
-  - {fileID: 2030132694}
   - {fileID: 2030132693}
   - {fileID: 2030132692}
   - {fileID: 2030132691}
-  - {fileID: 2030132690}
-  - {fileID: 2030132689}
-  - {fileID: 2030132688}
-  - {fileID: 2030132687}
-  - {fileID: 2030132686}
-  - {fileID: 2030132685}
-  - {fileID: 2030132684}
-  - {fileID: 2030132683}
-  - {fileID: 2030132682}
-  - {fileID: 2030132681}
-  - {fileID: 2030132680}
-  - {fileID: 2030132679}
-  - {fileID: 2030132678}
-  - {fileID: 2030132677}
-  - {fileID: 2030132676}
-  - {fileID: 2030132675}
-  - {fileID: 2030132674}
+  - {fileID: 2030132859}
   - {fileID: 2030132673}
-  - {fileID: 2030132672}
-  - {fileID: 2030132671}
   - {fileID: 2030132789}
   - {fileID: 2030132786}
   - {fileID: 2030132788}
   - {fileID: 2030132787}
-  - {fileID: 2030132785}
-  - {fileID: 2030132784}
-  - {fileID: 2030132783}
-  - {fileID: 2030132782}
   - {fileID: 2030132781}
   - {fileID: 2030132780}
   - {fileID: 2030132778}
@@ -15334,7 +15202,7 @@ MonoBehaviour:
   itemId: 312
   indentLevel: 0
   storyText: "Bueno, es que en mi mundo no existe el \xC9ter Vital al menos que yo
-    sepa.{wc}\n Esta fue la primera vez en mi vida que experiment\xE9 tal sensaci\xF3n. "
+    sepa.{wc}\nEsta fue la primera vez en mi vida que experiment\xE9 tal sensaci\xF3n. "
   description: 
   character: {fileID: 1689853121}
   portrait: {fileID: 21300000, guid: ec0d10e98d80083478cfd1162565a622, type: 3}
@@ -15578,90 +15446,6 @@ MonoBehaviour:
   itemId: 355
   indentLevel: 0
   sayDialog: {fileID: 1039526179}
---- !u!114 &2030132649
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 353
-  indentLevel: 0
-  storyText: "vuelves a la habitaci\xF3n donde estaba experimentando aelar y donde
-    fuiste invocado ayer"
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132650
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 352
-  indentLevel: 0
-  storyText: "portando tu equipo y llevando tu bolsa de modernas junto al bolso m\xE1gico
-    para llevar tus cosas"
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132651
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 351
-  indentLevel: 0
-  storyText: "entonces tras un momento despu\xE9s de ponerte el equipamiento sacado
-    del bolso m\xE1gico que te dio {$NPCHechicero},"
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
 --- !u!114 &2030132652
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -15677,7 +15461,11 @@ MonoBehaviour:
   itemId: 349
   indentLevel: 0
   storyText: "Quer\xEDas decirle algo m\xE1s pero prefieres ir a prepararte ya que
-    ser\xE1 una oportunidad de conocer el mundo fuera de la torre,"
+    ser\xE1 una oportunidad de conocer el mundo fuera de la torre,{wc}\nentonces
+    tras un momento despu\xE9s de ponerte el equipamiento sacado del bolso m\xE1gico
+    que te dio {$NPCHechicero},{wc}\nportando tu equipo y llevando tu bolsa de modernas
+    junto al bolso m\xE1gico para llevar tus cosas{wc}\nvuelves a la habitaci\xF3n
+    donde estaba experimentando aelar y donde fuiste invocado ayer"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -15821,90 +15609,6 @@ MonoBehaviour:
   itemId: 350
   indentLevel: 0
   sayDialog: {fileID: 1039526179}
---- !u!114 &2030132659
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 343
-  indentLevel: 0
-  storyText: "aunque no parece magia hasta ahora, de repente explota la posici\xF3n
-    en tu cara."
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132660
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 342
-  indentLevel: 0
-  storyText: pero piensas que debes de ser muy bueno en esto y que tienes mucho talento
-    para esto de la magia,
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132661
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 341
-  indentLevel: 0
-  storyText: "el resto es como si fuera normal para ti sin pensarlo ya le estas dando
-    \xC9ter Vital a la poci\xF3n no sabes c\xF3mo,"
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
 --- !u!114 &2030132662
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -15920,7 +15624,11 @@ MonoBehaviour:
   itemId: 340
   indentLevel: 0
   storyText: "Ayudas a aelar en su experimento inyectando \xC9ter Vital a la poci\xF3n
-    tal como te dijo solo sintiendo solo esa calidez"
+    tal como te dijo solo sintiendo solo esa calidez{wc}\nel resto es como si fuera
+    normal para ti sin pensarlo ya le estas dando \xC9ter Vital a la poci\xF3n no
+    sabes c\xF3mo,{wc}\npero piensas que debes de ser muy bueno en esto y que tienes
+    mucho talento para esto de la magia,{wc}\naunque no parece magia hasta ahora,
+    de repente explota la posici\xF3n en tu cara."
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -16069,61 +15777,6 @@ MonoBehaviour:
   itemId: 359
   indentLevel: 0
   sayDialog: {fileID: 665195592}
---- !u!114 &2030132671
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 401
-  indentLevel: 0
-  storyText: "tienes que decirlo en voz alta mocoso nos vemos en unos d\xEDas."
-  description: 
-  character: {fileID: 1451190654}
-  portrait: {fileID: 21300000, guid: d0e702be7e2e3ca4fb6eb7bc1b663c94, type: 3}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132672
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 400
-  indentLevel: 0
-  storyText: "\u201CPor favor gran se\xF1or Aelar gran hechicero de este mundo transp\xF3rteme
-    por favor a su torre\u201D"
-  description: 
-  character: {fileID: 1451190654}
-  portrait: {fileID: 21300000, guid: d0e702be7e2e3ca4fb6eb7bc1b663c94, type: 3}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
 --- !u!114 &2030132673
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -16138,484 +15791,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 399
   indentLevel: 0
-  storyText: solo di estas palabras en el mismo lugar al que te llevare con teleport
-    no las olvides por nada del mundo tienes que decir
-  description: 
-  character: {fileID: 1451190654}
-  portrait: {fileID: 21300000, guid: d0e702be7e2e3ca4fb6eb7bc1b663c94, type: 3}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132674
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 398
-  indentLevel: 0
-  storyText: Bien con eso concluyo esto, ahora si ve y aprende a defenderte con tu
-    cuerpo y consigue esos materiales cuando los tengas
-  description: 
-  character: {fileID: 1451190654}
-  portrait: {fileID: 21300000, guid: d0e702be7e2e3ca4fb6eb7bc1b663c94, type: 3}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132675
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 397
-  indentLevel: 0
-  storyText: con tu talento y recipiente ya basta y sobra que aprendas bien la magia
-    para que te defiendas bien de los peligros del mundo.
-  description: 
-  character: {fileID: 1451190654}
-  portrait: {fileID: 21300000, guid: d0e702be7e2e3ca4fb6eb7bc1b663c94, type: 3}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132676
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 396
-  indentLevel: 0
-  storyText: "por suerte para ti hacer eso no llegara a ser necesario a menos que
-    te quieras volverte el hechicero m\xE1s fuerte"
-  description: 
-  character: {fileID: 1451190654}
-  portrait: {fileID: 21300000, guid: d0e702be7e2e3ca4fb6eb7bc1b663c94, type: 3}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132677
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 395
-  indentLevel: 0
-  storyText: "lograr eso es muy complicado y necesita mucho entrenamiento adem\xE1s
-    que puede ser peligroso densificar \xC9ter vital,"
-  description: 
-  character: {fileID: 1451190654}
-  portrait: {fileID: 21300000, guid: d0e702be7e2e3ca4fb6eb7bc1b663c94, type: 3}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132678
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 394
-  indentLevel: 0
-  storyText: "O si lo densificas lo suficiente de manera segura podr\xEDa incluso
-    llegar a bastar para usar la m\xE1s poderosa Hexa"
-  description: 
-  character: {fileID: 1451190654}
-  portrait: {fileID: 21300000, guid: d0e702be7e2e3ca4fb6eb7bc1b663c94, type: 3}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132679
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 393
-  indentLevel: 0
-  storyText: "si logras esto tan solo un peque\xF1\xEDsima gota de \xC9ter Vital
-    bastar\xEDa para usar magia de la forma Quadra"
-  description: 
-  character: {fileID: 1451190654}
-  portrait: {fileID: 21300000, guid: d0e702be7e2e3ca4fb6eb7bc1b663c94, type: 3}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132680
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 392
-  indentLevel: 0
-  storyText: "Densificaci\xF3n Et\xE9rica para lograr aumentar la densidad del Eter
-    Vital y que ocupe menos espacio en el recipiente"
-  description: 
-  character: {fileID: 1451190654}
-  portrait: {fileID: 21300000, guid: d0e702be7e2e3ca4fb6eb7bc1b663c94, type: 3}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132681
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 391
-  indentLevel: 0
-  storyText: "si tienen un recipiente peque\xF1o entonces les faltara cantidad de
-    \xC9ter Vital pero hay una forma de compensar eso"
-  description: 
-  character: {fileID: 1451190654}
-  portrait: {fileID: 21300000, guid: d0e702be7e2e3ca4fb6eb7bc1b663c94, type: 3}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132682
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 390
-  indentLevel: 0
-  storyText: "no todos los que nacen con talento pueden llegar a usar magia m\xE1s
-    avanzada de Triad ya que aun con talento"
-  description: 
-  character: {fileID: 1451190654}
-  portrait: {fileID: 21300000, guid: d0e702be7e2e3ca4fb6eb7bc1b663c94, type: 3}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132683
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 389
-  indentLevel: 0
-  storyText: "es fr\xE1gil as\xED que solo podr\xE1s usar la magia de la forma Triad
-    por ahora, tu caso ciertamente es afortunado pero"
-  description: 
-  character: {fileID: 1451190654}
-  portrait: {fileID: 21300000, guid: d0e702be7e2e3ca4fb6eb7bc1b663c94, type: 3}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132684
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 388
-  indentLevel: 0
-  storyText: "tu naciste con un recipiente inmensamente grande por lo que no te faltara
-    \xC9ter vital pero de momento tu recipiente"
-  description: 
-  character: {fileID: 1451190654}
-  portrait: {fileID: 21300000, guid: d0e702be7e2e3ca4fb6eb7bc1b663c94, type: 3}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132685
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 387
-  indentLevel: 0
-  storyText: "m\xE1s poderosa pero tambi\xE9n tendr\xE1s que tener un recipiente
-    m\xE1s fuerte y mayor cantidad de \xC9ter Vital para usarla,"
-  description: 
-  character: {fileID: 1451190654}
-  portrait: {fileID: 21300000, guid: d0e702be7e2e3ca4fb6eb7bc1b663c94, type: 3}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132686
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 386
-  indentLevel: 0
-  storyText: "que abarca la magia para novatos, con forme m\xE1s aprendas magia podr\xE1s
-    dominar m\xE1s formas y poder usar magia"
-  description: 
-  character: {fileID: 1451190654}
-  portrait: {fileID: 21300000, guid: d0e702be7e2e3ca4fb6eb7bc1b663c94, type: 3}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132687
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 385
-  indentLevel: 0
-  storyText: "dominar la primera de las formas m\xE1gicas Triad en ese caso serias
-    un hechicero de 3 puntas,  el triad es la forma"
-  description: 
-  character: {fileID: 1451190654}
-  portrait: {fileID: 21300000, guid: d0e702be7e2e3ca4fb6eb7bc1b663c94, type: 3}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132688
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 384
-  indentLevel: 0
-  storyText: se divide cada hechicero en este mundo, para empezar solo te puedes
-    considerar un hechicero al momento que logras
-  description: 
-  character: {fileID: 1451190654}
-  portrait: {fileID: 21300000, guid: d0e702be7e2e3ca4fb6eb7bc1b663c94, type: 3}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132689
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 383
-  indentLevel: 0
-  storyText: "As\xED es como manejamos nuestro dinero en este reino. Tambi\xE9n aprovechando
-    que menciono esto te explicare como"
-  description: 
-  character: {fileID: 1451190654}
-  portrait: {fileID: 21300000, guid: d0e702be7e2e3ca4fb6eb7bc1b663c94, type: 3}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132690
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 382
-  indentLevel: 0
-  storyText: la de cuatro puntas es un Quadra, la de cinco puntas es un Penta, y
-    la de seis puntas es un Hexa.
+  storyText: "solo di estas palabras en el mismo lugar al que te llevare con teleport
+    no las olvides por nada del mundo tienes que decir{wc}\n\u201CPor favor gran
+    se\xF1or Aelar gran hechicero de este mundo transp\xF3rteme por favor a su torre\u201D{wc}\ntienes
+    que decirlo en voz alta mocoso nos vemos en unos d\xEDas."
   description: 
   character: {fileID: 1451190654}
   portrait: {fileID: 21300000, guid: d0e702be7e2e3ca4fb6eb7bc1b663c94, type: 3}
@@ -16643,7 +15822,33 @@ MonoBehaviour:
   itemId: 381
   indentLevel: 0
   storyText: "Aqu\xED usamos otros nombres. Aqu\xED los llamamos seg\xFAn la forma
-    m\xE1gica. La moneda de tres puntas es un Triad,"
+    m\xE1gica. La moneda de tres puntas es un Triad,{wc}\nla de cuatro puntas es
+    un Quadra, la de cinco puntas es un Penta, y la de seis puntas es un Hexa.{wc}\nAs\xED
+    es como manejamos nuestro dinero en este reino. Tambi\xE9n aprovechando que menciono
+    esto te explicare como{wc}\nse divide cada hechicero en este mundo, para empezar
+    solo te puedes considerar un hechicero al momento que logras{wc}\ndominar la
+    primera de las formas m\xE1gicas Triad en ese caso serias un hechicero de 3 puntas, 
+    el triad es la forma{wc}\nque abarca la magia para novatos, con forme m\xE1s
+    aprendas magia podr\xE1s dominar m\xE1s formas y poder usar magia{wc}\nm\xE1s
+    poderosa pero tambi\xE9n tendr\xE1s que tener un recipiente m\xE1s fuerte y mayor
+    cantidad de \xC9ter Vital para usarla,{wc}\ntu naciste con un recipiente inmensamente
+    grande por lo que no te faltara \xC9ter vital pero de momento tu recipiente{wc}\nes
+    fr\xE1gil as\xED que solo podr\xE1s usar la magia de la forma Triad por ahora,
+    tu caso ciertamente es afortunado pero{wc}\nno todos los que nacen con talento
+    pueden llegar a usar magia m\xE1s avanzada de Triad ya que aun con talento{wc}\nsi
+    tienen un recipiente peque\xF1o entonces les faltara cantidad de \xC9ter Vital
+    pero hay una forma de compensar eso{wc}\nDensificaci\xF3n Et\xE9rica para lograr
+    aumentar la densidad del Eter Vital y que ocupe menos espacio en el recipiente{wc}\nsi
+    logras esto tan solo un peque\xF1\xEDsima gota de \xC9ter Vital bastar\xEDa para
+    usar magia de la forma Quadra{wc}\nO si lo densificas lo suficiente de manera
+    segura podr\xEDa incluso llegar a bastar para usar la m\xE1s poderosa Hexa{wc}\nlograr
+    eso es muy complicado y necesita mucho entrenamiento adem\xE1s que puede ser
+    peligroso densificar \xC9ter vital,{wc}\npor suerte para ti hacer eso no llegara
+    a ser necesario a menos que te quieras volverte el hechicero m\xE1s fuerte{wc}\ncon
+    tu talento y recipiente ya basta y sobra que aprendas bien la magia para que
+    te defiendas bien de los peligros del mundo.{wc}\nBien con eso concluyo esto,
+    ahora si ve y aprende a defenderte con tu cuerpo y consigue esos materiales cuando
+    los tengas"
   description: 
   character: {fileID: 1451190654}
   portrait: {fileID: 21300000, guid: d0e702be7e2e3ca4fb6eb7bc1b663c94, type: 3}
@@ -16712,145 +15917,6 @@ MonoBehaviour:
   stopVoiceover: 1
   waitForVO: 0
   setSayDialog: {fileID: 0}
---- !u!114 &2030132694
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 380
-  indentLevel: 0
-  storyText: 'necesitas cuarenta de cinco puntas. '
-  description: 
-  character: {fileID: 1451190654}
-  portrait: {fileID: 21300000, guid: d0e702be7e2e3ca4fb6eb7bc1b663c94, type: 3}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132695
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 377
-  indentLevel: 0
-  storyText: Para obtener una moneda de cuatro puntas, necesitas 20 de tres puntas.
-    Para obtener una de seis puntas,
-  description: 
-  character: {fileID: 1451190654}
-  portrait: {fileID: 21300000, guid: d0e702be7e2e3ca4fb6eb7bc1b663c94, type: 3}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132696
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 376
-  indentLevel: 0
-  storyText: "necesitas 30 de cuatro puntas. Tambi\xE9n tenemos monedas de tres puntas
-    y hasta de seis puntas."
-  description: 
-  character: {fileID: 1451190654}
-  portrait: {fileID: 21300000, guid: d0e702be7e2e3ca4fb6eb7bc1b663c94, type: 3}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132697
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 375
-  indentLevel: 0
-  storyText: La moneda de mayor valor es la de cinco puntas. Para obtener una de
-    estas monedas de cinco puntas,
-  description: 
-  character: {fileID: 1451190654}
-  portrait: {fileID: 21300000, guid: d0e702be7e2e3ca4fb6eb7bc1b663c94, type: 3}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132698
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 374
-  indentLevel: 0
-  storyText: "Por ejemplo, esta moneda de aqu\xED tiene cuatro puntas, y esta otra
-    tiene cinco puntas."
-  description: 
-  character: {fileID: 1451190654}
-  portrait: {fileID: 21300000, guid: d0e702be7e2e3ca4fb6eb7bc1b663c94, type: 3}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
 --- !u!114 &2030132699
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -16867,34 +15933,6 @@ MonoBehaviour:
   indentLevel: 0
   commenterName: Mostrar
   commentText: "muestra dos monedas de forma extra\xF1a"
---- !u!114 &2030132700
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 372
-  indentLevel: 0
-  storyText: "El sistema de dinero aqu\xED se distingue por la forma de cada moneda
-    y el n\xFAmero de puntas que tiene cada forma."
-  description: 
-  character: {fileID: 1451190654}
-  portrait: {fileID: 21300000, guid: d0e702be7e2e3ca4fb6eb7bc1b663c94, type: 3}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
 --- !u!114 &2030132701
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -16910,38 +15948,17 @@ MonoBehaviour:
   itemId: 371
   indentLevel: 0
   storyText: "Ah, cierto, lo hab\xEDa olvidado... Mmm, bien, ven, pr\xE9stame atenci\xF3n
-    y te explicar\xE9 c\xF3mo funciona el dinero en este reino."
+    y te explicar\xE9 c\xF3mo funciona el dinero en este reino.{wc}\nEl sistema de
+    dinero aqu\xED se distingue por la forma de cada moneda y el n\xFAmero de puntas
+    que tiene cada forma.{wc}\nPor ejemplo, esta moneda de aqu\xED tiene cuatro puntas,
+    y esta otra tiene cinco puntas.{wc}\nLa moneda de mayor valor es la de cinco
+    puntas. Para obtener una de estas monedas de cinco puntas,{wc}\nnecesitas 30
+    de cuatro puntas. Tambi\xE9n tenemos monedas de tres puntas y hasta de seis puntas.{wc}\nPara
+    obtener una moneda de cuatro puntas, necesitas 20 de tres puntas. Para obtener
+    una de seis puntas,{wc}\nnecesitas cuarenta de cinco puntas. "
   description: 
   character: {fileID: 1451190654}
   portrait: {fileID: 21300000, guid: d0e702be7e2e3ca4fb6eb7bc1b663c94, type: 3}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132702
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 370
-  indentLevel: 0
-  storyText: "primero expl\xEDcame como es el sistema econ\xF3mico aqu\xED quieres
-    tengo este dinero que me diste, pero no se cu\xE1nto vale ni nada"
-  description: 
-  character: {fileID: 1689853121}
-  portrait: {fileID: 21300000, guid: ec0d10e98d80083478cfd1162565a622, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -16966,7 +15983,9 @@ MonoBehaviour:
   itemId: 369
   indentLevel: 0
   storyText: "Esperaaaa..... eso es todo lo que tienes para decirme Viejo ni siquiera
-    se lo b\xE1sico para defenderme en este mundo,"
+    se lo b\xE1sico para defenderme en este mundo,{wc}\nprimero expl\xEDcame como
+    es el sistema econ\xF3mico aqu\xED quieres tengo este dinero que me diste, pero
+    no se cu\xE1nto vale ni nada"
   description: 
   character: {fileID: 1689853121}
   portrait: {fileID: 21300000, guid: ec0d10e98d80083478cfd1162565a622, type: 3}
@@ -17022,117 +16041,6 @@ MonoBehaviour:
   indentLevel: 0
   commenterName: Mostrar
   commentText: te entrega una lista de materiales
---- !u!114 &2030132706
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 366
-  indentLevel: 0
-  storyText: al menos lo suficiente para poder recolectar los materiales que necesito,
-  description: 
-  character: {fileID: 1451190654}
-  portrait: {fileID: 21300000, guid: d0e702be7e2e3ca4fb6eb7bc1b663c94, type: 3}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132707
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 365
-  indentLevel: 0
-  storyText: "y aprovecha y pide el entrenamiento de novato as\xED podr\xE1s entrenar
-    tu cuerpo en el manejo de la espada"
-  description: 
-  character: {fileID: 1451190654}
-  portrait: {fileID: 21300000, guid: d0e702be7e2e3ca4fb6eb7bc1b663c94, type: 3}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132708
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 364
-  indentLevel: 0
-  storyText: "una espada por esta vez te enviare no muy lejos del pueblo con teleport,
-    una vez all\xED inscr\xEDbete en el gremio de mercenarios"
-  description: 
-  character: {fileID: 1451190654}
-  portrait: {fileID: 21300000, guid: d0e702be7e2e3ca4fb6eb7bc1b663c94, type: 3}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132709
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 363
-  indentLevel: 0
-  storyText: "para poder llegar al pueblo m\xE1s cercano de aqu\xED, pero dado que
-    no sabes usar magia y por lo que parece mucho menos"
-  description: 
-  character: {fileID: 1451190654}
-  portrait: {fileID: 21300000, guid: d0e702be7e2e3ca4fb6eb7bc1b663c94, type: 3}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
 --- !u!114 &2030132710
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -17148,7 +16056,13 @@ MonoBehaviour:
   itemId: 362
   indentLevel: 0
   storyText: "\xBFLlegamos? Querr\xE1s decir tu llegaras , como recordaras la torre
-    est\xE1 rodeada por un bosque que necesitas atravesar"
+    est\xE1 rodeada por un bosque que necesitas atravesar{wc}\npara poder llegar
+    al pueblo m\xE1s cercano de aqu\xED, pero dado que no sabes usar magia y por
+    lo que parece mucho menos{wc}\nuna espada por esta vez te enviare no muy lejos
+    del pueblo con teleport, una vez all\xED inscr\xEDbete en el gremio de mercenarios{wc}\ny
+    aprovecha y pide el entrenamiento de novato as\xED podr\xE1s entrenar tu cuerpo
+    en el manejo de la espada{wc}\nal menos lo suficiente para poder recolectar los
+    materiales que necesito,"
   description: 
   character: {fileID: 1451190654}
   portrait: {fileID: 21300000, guid: d0e702be7e2e3ca4fb6eb7bc1b663c94, type: 3}
@@ -17203,102 +16117,52 @@ MonoBehaviour:
   commandList:
   - {fileID: 2030132766}
   - {fileID: 2030132765}
-  - {fileID: 2030132764}
-  - {fileID: 2030132763}
-  - {fileID: 2030132762}
-  - {fileID: 2030132761}
-  - {fileID: 2030132760}
-  - {fileID: 2030132759}
-  - {fileID: 2030132758}
-  - {fileID: 2030132757}
   - {fileID: 2030132756}
   - {fileID: 2030132755}
   - {fileID: 2030132754}
   - {fileID: 2030132753}
-  - {fileID: 2030132752}
-  - {fileID: 2030132751}
   - {fileID: 2030132750}
   - {fileID: 2030132749}
-  - {fileID: 2030132748}
   - {fileID: 2030132747}
-  - {fileID: 2030132746}
-  - {fileID: 2030132745}
   - {fileID: 2030132744}
-  - {fileID: 2030132743}
-  - {fileID: 2030132742}
-  - {fileID: 2030132741}
-  - {fileID: 2030132740}
-  - {fileID: 2030132739}
-  - {fileID: 2030132738}
   - {fileID: 2030132737}
   - {fileID: 2030132736}
-  - {fileID: 2030132735}
   - {fileID: 2030132734}
   - {fileID: 2030132733}
-  - {fileID: 2030132732}
-  - {fileID: 2030132731}
   - {fileID: 2030132730}
   - {fileID: 2030132729}
   - {fileID: 2030132728}
   - {fileID: 2030132727}
-  - {fileID: 2030132726}
   - {fileID: 2030132725}
   - {fileID: 2030132724}
   - {fileID: 2030132723}
-  - {fileID: 2030132722}
-  - {fileID: 2030132721}
-  - {fileID: 2030132720}
   - {fileID: 2030132719}
   - {fileID: 2030132718}
   - {fileID: 2030132717}
   - {fileID: 2030132716}
-  - {fileID: 2030132715}
   - {fileID: 2030132800}
   - {fileID: 2030132714}
   - {fileID: 2030132799}
   - {fileID: 2030132798}
   - {fileID: 2030132797}
-  - {fileID: 2030132796}
-  - {fileID: 2030132795}
-  - {fileID: 2030132794}
-  - {fileID: 2030132793}
-  - {fileID: 2030132792}
-  - {fileID: 2030132791}
-  - {fileID: 2030132790}
   - {fileID: 2030132835}
   - {fileID: 2030132834}
-  - {fileID: 2030132833}
-  - {fileID: 2030132832}
-  - {fileID: 2030132831}
   - {fileID: 2030132830}
   - {fileID: 2030132829}
-  - {fileID: 2030132828}
-  - {fileID: 2030132827}
   - {fileID: 2030132826}
   - {fileID: 2030132825}
-  - {fileID: 2030132824}
-  - {fileID: 2030132823}
-  - {fileID: 2030132822}
-  - {fileID: 2030132821}
-  - {fileID: 2030132820}
   - {fileID: 2030132819}
   - {fileID: 2030132818}
   - {fileID: 2030132817}
-  - {fileID: 2030132816}
-  - {fileID: 2030132815}
   - {fileID: 2030132814}
+  - {fileID: 2030132861}
   - {fileID: 2030132813}
+  - {fileID: 2030132860}
   - {fileID: 2030132812}
   - {fileID: 2030132811}
   - {fileID: 2030132810}
   - {fileID: 2030132809}
   - {fileID: 2030132808}
-  - {fileID: 2030132807}
-  - {fileID: 2030132806}
-  - {fileID: 2030132805}
-  - {fileID: 2030132804}
-  - {fileID: 2030132803}
-  - {fileID: 2030132802}
   - {fileID: 2030132801}
   suppressAllAutoSelections: 0
 --- !u!114 &2030132714
@@ -17315,36 +16179,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 479
   indentLevel: 0
-  storyText: "Por \xFAltimo puede decirme en que se especializa, combate con espada,
-    pu\xF1os, arco, curandero o hechicero"
-  description: 
-  character: {fileID: 1931349347}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132715
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 477
-  indentLevel: 0
-  storyText: "puede saltar esa parte y se llenara con el nombre de este pueblo donde
-    se est\xE1 registrando"
+  storyText: "enonces quedara registrada su ciudad de origen como Eldoria.{wc}\nPor
+    \xFAltimo puede decirme en que se especializa, combate con espada, pu\xF1os,
+    arco, curandero o hechicero"
   description: 
   character: {fileID: 1931349347}
   portrait: {fileID: 0}
@@ -17372,7 +16209,8 @@ MonoBehaviour:
   itemId: 474
   indentLevel: 0
   storyText: "Ahora cu\xE1l es su lugar de origen est\xE1 bien si no sabe el nombre
-    de donde es o no quiere decirlo"
+    de donde es o no quiere decirlo{wc}\npuede saltar esa parte y se llenara con
+    el nombre de este pueblo donde se est\xE1 registrando"
   description: 
   character: {fileID: 1931349347}
   portrait: {fileID: 0}
@@ -17454,89 +16292,6 @@ MonoBehaviour:
   itemId: 470
   indentLevel: 0
   sayDialog: {fileID: 1039526179}
---- !u!114 &2030132720
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 473
-  indentLevel: 0
-  storyText: entender esta lengua y hablarla, pero no puedo leerla ahh que gran problema
-  description: 
-  character: {fileID: 1689853121}
-  portrait: {fileID: 21300000, guid: ec0d10e98d80083478cfd1162565a622, type: 3}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132721
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 472
-  indentLevel: 0
-  storyText: "el mismo idioma acaso al invocarme esa magia m\xE1gicamente hizo que
-    convenientemente pudiera "
-  description: 
-  character: {fileID: 1689853121}
-  portrait: {fileID: 21300000, guid: ec0d10e98d80083478cfd1162565a622, type: 3}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132722
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 471
-  indentLevel: 0
-  storyText: "pens\xE9 que deb\xEDa ser porque habl\xE1bamos el mismo idioma, pero
-    ahora me doy cuenta, aunque nos entendemos no es"
-  description: 
-  character: {fileID: 1689853121}
-  portrait: {fileID: 21300000, guid: ec0d10e98d80083478cfd1162565a622, type: 3}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
 --- !u!114 &2030132723
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -17552,7 +16307,11 @@ MonoBehaviour:
   itemId: 469
   indentLevel: 0
   storyText: "qu\xE9 clase de letra es esta no la entiendo en absoluto, pero nos
-    entendemos bien al hablar"
+    entendemos bien al hablar{wc}\npens\xE9 que deb\xEDa ser porque habl\xE1bamos
+    el mismo idioma, pero ahora me doy cuenta, aunque nos entendemos no es{wc}\nel
+    mismo idioma acaso al invocarme esa magia m\xE1gicamente hizo que convenientemente
+    pudiera{wc}\nentender esta lengua y hablarla, pero no puedo leerla ahh que gran
+    problema"
   description: 
   character: {fileID: 1689853121}
   portrait: {fileID: 21300000, guid: ec0d10e98d80083478cfd1162565a622, type: 3}
@@ -17607,33 +16366,6 @@ MonoBehaviour:
   stopVoiceover: 1
   waitForVO: 0
   setSayDialog: {fileID: 0}
---- !u!114 &2030132726
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 466
-  indentLevel: 0
-  storyText: si necesita ayuda para llenarlo entonces yo Lily Frost puedo colaborarle
-  description: 
-  character: {fileID: 1931349347}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
 --- !u!114 &2030132727
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -17665,7 +16397,8 @@ MonoBehaviour:
   itemId: 464
   indentLevel: 0
   storyText: "Bienvenido al gremio de mercenarios, claro con gusto este es el formulario
-    de inscripci\xF3n"
+    de inscripci\xF3n{wc}\nsi necesita ayuda para llenarlo entonces yo Lily Frost
+    puedo colaborarle"
   description: 
   character: {fileID: 1931349347}
   portrait: {fileID: 0}
@@ -17857,62 +16590,6 @@ MonoBehaviour:
   stopVoiceover: 1
   waitForVO: 0
   setSayDialog: {fileID: 0}
---- !u!114 &2030132731
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 461
-  indentLevel: 0
-  storyText: "salen y entran personas, entras y te acercas al lugar que parece ser
-    la recepci\xF3n"
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132732
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 460
-  indentLevel: 0
-  storyText: al gremio de mercenarios donde ves un gran edificio con unas puertas
-    grandes por donde
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
 --- !u!114 &2030132733
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -17927,8 +16604,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 459
   indentLevel: 0
-  storyText: Tomas la llave y sales para ir al gremio de mercenarios, tras caminar
-    un poco por las calles llegas
+  storyText: "Tomas la llave y sales para ir al gremio de mercenarios, tras caminar
+    un poco por las calles llegas{wc}\nal gremio de mercenarios donde ves un gran
+    edificio con unas puertas grandes por donde{wc}\nsalen y entran personas, entras
+    y te acercas al lugar que parece ser la recepci\xF3n"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -17956,33 +16635,6 @@ MonoBehaviour:
   itemId: 458
   indentLevel: 0
   sayDialog: {fileID: 665195592}
---- !u!114 &2030132735
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 457
-  indentLevel: 0
-  storyText: "ma\xF1ana a la hora sexta le tendr\xE9 lista la comida"
-  description: 
-  character: {fileID: 1321016952}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
 --- !u!114 &2030132736
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -17998,7 +16650,7 @@ MonoBehaviour:
   itemId: 454
   indentLevel: 0
   storyText: "Por supuesto que se puede viajero bien entonces aqu\xED tiene la llave
-    de su habitaci\xF3n,"
+    de su habitaci\xF3n,{wc}\nma\xF1ana a la hora sexta le tendr\xE9 lista la comida"
   description: 
   character: {fileID: 1321016952}
   portrait: {fileID: 0}
@@ -18039,172 +16691,6 @@ MonoBehaviour:
   stopVoiceover: 1
   waitForVO: 0
   setSayDialog: {fileID: 0}
---- !u!114 &2030132738
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 456
-  indentLevel: 0
-  storyText: "espero all\xE1 entendido viajero ahora que opcion le gustar\xEDa tomar"
-  description: 
-  character: {fileID: 1321016952}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132739
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 453
-  indentLevel: 0
-  storyText: "As\xED es como manejamos el tiempo en este pueblo y en todo el reino,"
-  description: 
-  character: {fileID: 1321016952}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132740
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 452
-  indentLevel: 0
-  storyText: "para indicar la puesta de sol y por ultimo 4 campanadas para indicar
-    que ya oscureci\xF3."
-  description: 
-  character: {fileID: 1321016952}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132741
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 451
-  indentLevel: 0
-  storyText: "seria el medio d\xEDa, la hora nona son dos campanadas que es la media
-    tarde, la v\xEDsperas son 3 campanadas"
-  description: 
-  character: {fileID: 1321016952}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132742
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 450
-  indentLevel: 0
-  storyText: "hora tercia es al sonar dos campanadas que ser\xEDa la media ma\xF1ana,
-    la hora sexta al sonar una campana"
-  description: 
-  character: {fileID: 1321016952}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132743
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 449
-  indentLevel: 0
-  storyText: "como manejamos los horarios, la primeras 3 campanadas del d\xEDa es
-    al salir el sol que ser\xEDa la hora prima,"
-  description: 
-  character: {fileID: 1321016952}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
 --- !u!114 &2030132744
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -18219,65 +16705,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 444
   indentLevel: 0
-  storyText: Ahhh entiendo Viajero asi que es la primera vez que sale de su pueblo
-    ya veo bien entonces si quiere puedo explicarle
+  storyText: "Ahhh entiendo Viajero asi que es la primera vez que sale de su pueblo
+    ya veo bien entonces si quiere puedo explicarle{wc}\ncomo manejamos los horarios,
+    la primeras 3 campanadas del d\xEDa es al salir el sol que ser\xEDa la hora prima,{wc}\nhora
+    tercia es al sonar dos campanadas que ser\xEDa la media ma\xF1ana, la hora sexta
+    al sonar una campana{wc}\nseria el medio d\xEDa, la hora nona son dos campanadas
+    que es la media tarde, la v\xEDsperas son 3 campanadas{wc}\npara indicar la puesta
+    de sol y por ultimo 4 campanadas para indicar que ya oscureci\xF3.{wc}\nAs\xED
+    es como manejamos el tiempo en este pueblo y en todo el reino,{wc}\nespero all\xE1
+    entendido viajero ahora que opcion le gustar\xEDa tomar"
   description: 
   character: {fileID: 1321016952}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132745
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 447
-  indentLevel: 0
-  storyText: "as\xED que no estoy familiarizado con lo de las campanadas"
-  description: 
-  character: {fileID: 1689853121}
-  portrait: {fileID: 21300000, guid: ec0d10e98d80083478cfd1162565a622, type: 3}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132746
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 446
-  indentLevel: 0
-  storyText: "donde se encontraba el sol en el cielo para saber si era medio d\xEDa...jajaja"
-  description: 
-  character: {fileID: 1689853121}
-  portrait: {fileID: 21300000, guid: ec0d10e98d80083478cfd1162565a622, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -18302,37 +16741,12 @@ MonoBehaviour:
   itemId: 445
   indentLevel: 0
   storyText: "Ahh bueno vera es que en donde viv\xEDa no nos reg\xEDamos por campanadas
-    ni nada si no que solo nos fij\xE1bamos"
+    ni nada si no que solo nos fij\xE1bamos{wc}\ndonde se encontraba el sol en el
+    cielo para saber si era medio d\xEDa...jajaja{wc}\nas\xED que no me familiarizo
+    con lo de las campanadas"
   description: 
   character: {fileID: 1689853121}
   portrait: {fileID: 21300000, guid: ec0d10e98d80083478cfd1162565a622, type: 3}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132748
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 448
-  indentLevel: 0
-  storyText: "de las afueras aprenden a menos que usted sea un ermita\xF1o"
-  description: 
-  character: {fileID: 1321016952}
-  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -18357,7 +16771,8 @@ MonoBehaviour:
   itemId: 443
   indentLevel: 0
   storyText: "Por supuesto Viajero, pero acaso no sabe c\xF3mo manejamos el tiempo
-    eso es algo muy b\xE1sico que incluso en los poblados"
+    eso es algo muy b\xE1sico que incluso en los poblados{wc}\nde las afueras aprenden
+    a menos que usted sea un ermita\xF1o"
   description: 
   character: {fileID: 1321016952}
   portrait: {fileID: 0}
@@ -18397,61 +16812,6 @@ MonoBehaviour:
   stopVoiceover: 1
   waitForVO: 0
   setSayDialog: {fileID: 0}
---- !u!114 &2030132751
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 441
-  indentLevel: 0
-  storyText: "\xBFLe gustar\xEDa una habitaci\xF3n?"
-  description: 
-  character: {fileID: 1321016952}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132752
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 440
-  indentLevel: 0
-  storyText: de 1 Triad por noche, o 3 Triad si desea incluir una comida cuando suene
-    la primera campanada.
-  description: 
-  character: {fileID: 1321016952}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
 --- !u!114 &2030132753
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -18466,8 +16826,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 438
   indentLevel: 0
-  storyText: Bienvenido, viajero. Soy Mary Grey y esta es The Silver Inn. Tenemos
-    habitaciones disponibles a un precio justo
+  storyText: "Bienvenido, viajero. Soy Mary Grey y esta es The Silver Inn. Tenemos
+    habitaciones disponibles a un precio justo{wc}\nde 1 Triad por noche, o 3 Triad
+    si desea incluir una comida cuando suene la primera campanada.{wc}\n\xBFLe gustar\xEDa
+    una habitaci\xF3n?"
   description: 
   character: {fileID: 1321016952}
   portrait: {fileID: 0}
@@ -18674,229 +17036,6 @@ MonoBehaviour:
   itemId: 436
   indentLevel: 0
   sayDialog: {fileID: 1039526179}
---- !u!114 &2030132757
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 435
-  indentLevel: 0
-  storyText: "por qu\xE9 pero no le das importancia y vas a la posada"
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132758
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 434
-  indentLevel: 0
-  storyText: lo cual recuerdas que al llegar a la puerta del pueblo escuchaste una
-    campana aunque no sabes
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132759
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 433
-  indentLevel: 0
-  storyText: "descansar en la posada aunque solo es medio d\xEDa por lo que parece
-    seg\xFAn como est\xE1 el sol,"
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132760
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 432
-  indentLevel: 0
-  storyText: "que puedes pedir rellenen una vez, ahora que estas bien comido piensas
-    que estar\xEDa bien por hoy ir y"
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132761
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 431
-  indentLevel: 0
-  storyText: la comida vale solo 2 moneda Triad y es un almuerzo completo con sopa,
-    seco y una bebida
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132762
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 430
-  indentLevel: 0
-  storyText: "antes de ir a cualquier lugar, entras y tras una buena comida aprendes
-    algo m\xE1s de este mundo,"
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132763
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 429
-  indentLevel: 0
-  storyText: "no hab\xEDas comido nada desde que fuiste invocado ayer entonces decides
-    que primero deber\xEDas de comer algo"
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132764
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 428
-  indentLevel: 0
-  storyText: que parece que es un restaurante donde hueles un dulce aroma y tu estomago
-    comienza a rugir de hambre,
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
 --- !u!114 &2030132765
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -18911,8 +17050,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 427
   indentLevel: 0
-  storyText: Bien ya habiendo decidido las prioridades comienzas a avanzar por el
-    pueblo y pasas por el frente de un local
+  storyText: "Ya habiendo decidido las prioridades comienzas a avanzar por el pueblo
+    y pasas por el frente de un local{wc}\nque parece que es un restaurante donde
+    hueles un dulce aroma y tu estomago comienza a rugir de hambre,{wc}\nno hab\xEDas
+    comido nada desde que fuiste invocado ayer entonces decides que primero deber\xEDas
+    de comer algo{wc}\nantes de ir a cualquier lugar, entras y tras una buena comida
+    aprendes algo m\xE1s de este mundo,{wc}\nla comida vale solo 2 moneda Triad y
+    es un almuerzo completo con sopa, seco y una bebida{wc}\nque puedes pedir rellenen
+    una vez, ahora que estas bien comido piensas que estar\xEDa bien por hoy ir y{wc}\ndescansar
+    en la posada aunque solo es medio d\xEDa por lo que parece seg\xFAn como est\xE1
+    el sol,{wc}\nlo cual recuerdas que al llegar a la puerta del pueblo escuchaste
+    una campana aunque no sabes{wc}\npor qu\xE9 pero no le das importancia y vas
+    a la posada"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -18961,61 +17110,6 @@ MonoBehaviour:
     stringVal: 
   startIndex: 0
   callMode: 1
---- !u!114 &2030132768
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 423
-  indentLevel: 0
-  storyText: y sus experimento en medio de ese campo minado que dice que no es peligroso
-  description: 
-  character: {fileID: 1689853121}
-  portrait: {fileID: 21300000, guid: ec0d10e98d80083478cfd1162565a622, type: 3}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132769
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 422
-  indentLevel: 0
-  storyText: y empezar el entrenamiento, espero tengan comida en la posada me muero
-    de hambre por culpa de ese Viejo
-  description: 
-  character: {fileID: 1689853121}
-  portrait: {fileID: 21300000, guid: ec0d10e98d80083478cfd1162565a622, type: 3}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
 --- !u!114 &2030132770
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -19052,7 +17146,9 @@ MonoBehaviour:
   itemId: 420
   indentLevel: 0
   storyText: "ir\xE9 primero a la posada y pedir\xE9 una habitaci\xF3n luego ir\xE9
-    al gremio de mercenarios a inscribirme"
+    al gremio de mercenarios a inscribirme{wc}\ny empezar el entrenamiento, espero
+    tengan comida en la posada me muero de hambre por culpa de ese Viejo{wc}\ny sus
+    experimento en medio de ese campo minado que dice que no es peligroso"
   description: 
   character: {fileID: 1689853121}
   portrait: {fileID: 21300000, guid: ec0d10e98d80083478cfd1162565a622, type: 3}
@@ -19080,62 +17176,6 @@ MonoBehaviour:
   itemId: 419
   indentLevel: 0
   sayDialog: {fileID: 2872593285099765529}
---- !u!114 &2030132773
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 418
-  indentLevel: 0
-  storyText: debi comer antes que ir a ver a un Viejo senil que tiene un campo minado
-    y dice que no es peligroso
-  description: 
-  character: {fileID: 1689853121}
-  portrait: {fileID: 21300000, guid: ec0d10e98d80083478cfd1162565a622, type: 3}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132774
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 417
-  indentLevel: 0
-  storyText: "y pedir\xE9 una habitaci\xF3n para la noche, me muero de hambre por
-    culpa de ese Viejo"
-  description: 
-  character: {fileID: 1689853121}
-  portrait: {fileID: 21300000, guid: ec0d10e98d80083478cfd1162565a622, type: 3}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
 --- !u!114 &2030132775
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -19166,7 +17206,10 @@ MonoBehaviour:
   itemId: 415
   indentLevel: 0
   storyText: "Deber\xEDa ir primero al gremio y realizar la inscripci\xF3n ser\xE1
-    mejor completar esto primero y luego ir\xE9 a la posada"
+    mejor completar esto primero y luego ir\xE9 a la posada{wc}\ny pedir\xE9 una
+    habitaci\xF3n para la noche, me muero de hambre por culpa de ese Viejo{wc}\ndebi
+    comer antes que ir a ver a un Viejo senil que tiene un campo minado y dice que
+    no es peligroso"
   description: 
   character: {fileID: 1689853121}
   portrait: {fileID: 21300000, guid: ec0d10e98d80083478cfd1162565a622, type: 3}
@@ -19194,7 +17237,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 493.72778
-    y: 122.518295
+    y: 121.487366
     width: 126.28866
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
@@ -19206,8 +17249,6 @@ MonoBehaviour:
   commandList:
   - {fileID: 2030132775}
   - {fileID: 2030132776}
-  - {fileID: 2030132774}
-  - {fileID: 2030132773}
   - {fileID: 2030132770}
   suppressAllAutoSelections: 0
 --- !u!114 &2030132778
@@ -19262,8 +17303,6 @@ MonoBehaviour:
   commandList:
   - {fileID: 2030132772}
   - {fileID: 2030132771}
-  - {fileID: 2030132769}
-  - {fileID: 2030132768}
   - {fileID: 2030132767}
   suppressAllAutoSelections: 0
 --- !u!114 &2030132780
@@ -19306,118 +17345,6 @@ MonoBehaviour:
   itemId: 410
   indentLevel: 0
   menuDialog: {fileID: 2113761005}
---- !u!114 &2030132782
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 409
-  indentLevel: 0
-  storyText: "aqu\xED y una posada para poder alojarte ese d\xEDa, tras recibir la
-    indicaci\xF3n decides"
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132783
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 408
-  indentLevel: 0
-  storyText: donde vez a unas personas portando armaduras plateadas y te acercas
-    y preguntas donde queda el gremio de mercenarios
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132784
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 407
-  indentLevel: 0
-  storyText: "al gremio de mercenarios a inscribirte y pedir el entrenamiento de
-    novatos. \rCaminas un poco hasta la entrada"
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132785
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 406
-  indentLevel: 0
-  storyText: "en el lugar con una rama de \xE1rbol que no estaba muy lejos de ah\xED
-    y comienzas a caminar al pueblo para ir"
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
 --- !u!114 &2030132786
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -19448,8 +17375,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 404
   indentLevel: 0
-  storyText: Resignado a que tendras que decir todo eso para poder volver luego a
-    la torre del viejo, dejas una marca
+  storyText: "Resignado a que tendras que decir todo eso para poder volver luego
+    a la torre del viejo, dejas una marca{wc}\nen el lugar con una rama de \xE1rbol
+    que no estaba muy lejos de ah\xED y comienzas a caminar al pueblo para ir{wc}\nal
+    gremio de mercenarios a inscribirte y pedir el entrenamiento de novatos. \rCaminas
+    un poco hasta la entrada{wc}\ndonde vez a unas personas portando armaduras plateadas
+    y te acercas y preguntas donde queda el gremio de mercenarios{wc}\naqu\xED y
+    una posada para poder alojarte ese d\xEDa, tras recibir la indicaci\xF3n decides"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -19505,202 +17437,6 @@ MonoBehaviour:
   stopVoiceover: 1
   waitForVO: 0
   setSayDialog: {fileID: 0}
---- !u!114 &2030132790
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 490
-  indentLevel: 0
-  storyText: pueda ayudarlo para que pueda hacer las misiones de la mejor manera
-    hasta pronto
-  description: 
-  character: {fileID: 1931349347}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132791
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 489
-  indentLevel: 0
-  storyText: "y le ayudaremos a conseguir un maestro dispuesto a ense\xF1arle, espero
-    entonces que su entrenamiento con la espada"
-  description: 
-  character: {fileID: 1931349347}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132792
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 488
-  indentLevel: 0
-  storyText: "y deber\xE1 pagarlo solo podemos ayudarlo a determinar si tiene talento
-    para ello si desea tomarlo no dude el volver"
-  description: 
-  character: {fileID: 1931349347}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132793
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 487
-  indentLevel: 0
-  storyText: "evaluara si tiene talento para la magia, lastimosamente de ser as\xED
-    el entrenamiento de hechiceros no es gratuito"
-  description: 
-  character: {fileID: 1931349347}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132794
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 486
-  indentLevel: 0
-  storyText: "puede subir al segundo piso y en la \xFAltima puerta est\xE1 la habitaci\xF3n
-    donde uno de nuestros hechiceros "
-  description: 
-  character: {fileID: 1931349347}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132795
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 485
-  indentLevel: 0
-  storyText: para el uso de la espada puede ir por esa puerta a la derecha o si desea
-    validar sus habilidades para la magia
-  description: 
-  character: {fileID: 1931349347}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132796
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 484
-  indentLevel: 0
-  storyText: "bien eso es todo para su ingreso en 3 d\xEDas tendr\xE1 su tarjeta
-    de mercenario, si quiere tomar el entrenamiento de novatos"
-  description: 
-  character: {fileID: 1931349347}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
 --- !u!114 &2030132797
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -19715,8 +17451,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 483
   indentLevel: 0
-  storyText: Entendido entonces se especializara en combate con la espada y desea
-    tomar el entrenamiento de novatos,
+  storyText: "Entendido entonces se especializara en combate con la espada y desea
+    tomar el entrenamiento de novatos,{wc}\nbien eso es todo para su ingreso en 3
+    d\xEDas tendr\xE1 su tarjeta de mercenario, si quiere tomar el entrenamiento
+    de novatos{wc}\npara el uso de la espada puede ir por esa puerta a la derecha
+    o si desea validar sus habilidades para la magia{wc}\npuede subir al segundo
+    piso y en la \xFAltima puerta est\xE1 la habitaci\xF3n donde uno de nuestros
+    hechiceros{wc}\nevaluara si tiene talento para la magia, lastimosamente de ser
+    as\xED el entrenamiento de hechiceros no es gratuito{wc}\ny deber\xE1 pagarlo
+    solo podemos ayudarlo a determinar si tiene talento para ello si desea tomarlo
+    no dude el volver{wc}\ny le ayudaremos a conseguir un maestro dispuesto a ense\xF1arle,
+    espero entonces que su entrenamiento con la espada{wc}\npueda ayudarlo para que
+    pueda hacer las misiones de la mejor manera hasta pronto"
   description: 
   character: {fileID: 1931349347}
   portrait: {fileID: 0}
@@ -19828,173 +17574,6 @@ MonoBehaviour:
   commenterName: Fin Intro
   commentText: Finaliza la introduccion y deja al jugador abrir mapa libremente o
     aceptar misiones
---- !u!114 &2030132802
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 526
-  indentLevel: 0
-  storyText: ahora por fin tu aventura puede empezar
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132803
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 525
-  indentLevel: 0
-  storyText: y Lily te pide que te pinches el dedo y le dejes caer una gota de tu
-    sangre a la tarjeta de mercenario,
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132804
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 524
-  indentLevel: 0
-  storyText: "llevar la comida de Mary e ir a recibir el entrenamiento hasta que
-    llega el d\xEDa en que ya tienes tu tarjeta de mercenario "
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132805
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 523
-  indentLevel: 0
-  storyText: "al menos hasta que tengas la tarjeta de mercenario del gremio, pasan
-    los d\xEDas en esta rutina de despertarte"
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132806
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 522
-  indentLevel: 0
-  storyText: "despu\xE9s de todo no sabes que te pasar\xEDa si desobedeces al gorila
-    ese as\xED que ser\xE1 mejor que sigas este entrenamiento"
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132807
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 518
-  indentLevel: 0
-  storyText: "\u201CSI SE\xD1OR\u201D t\xFA tambi\xE9n por la presencia que da este
-    gorila respondes igual que el resto"
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
 --- !u!114 &2030132808
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -20010,7 +17589,15 @@ MonoBehaviour:
   itemId: 515
   indentLevel: 0
   storyText: "Luego de decir eso tal y como si fuera un pelot\xF3n militar todos
-    responden al unison\xF3 y en voz alta"
+    responden al unison\xF3 y en voz alta{wc}\n\u201CSI SE\xD1OR\u201D t\xFA tambi\xE9n
+    por la presencia que da este gorila respondes igual que el resto{wc}\ndespu\xE9s
+    de todo no sabes que te pasar\xEDa si desobedeces al gorila ese as\xED que ser\xE1
+    mejor que sigas este entrenamiento{wc}\nal menos hasta que tengas la tarjeta
+    de mercenario del gremio, pasan los d\xEDas en esta rutina de despertarte{wc}\nllevar
+    la comida de Mary e ir a recibir el entrenamiento hasta que llega el d\xEDa en
+    que ya tienes tu tarjeta de mercenario{wc}\ny Lily te pide que te pinches el
+    dedo y le dejes caer una gota de tu sangre a la tarjeta de mercenario,{wc}\nahora
+    por fin tu aventura puede empezar"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -20154,62 +17741,6 @@ MonoBehaviour:
   commenterName: Cambiar sonido de escritura
   commentText: cambiar el sonido del escrito por una que pueda expresar que se esta
     gritando
---- !u!114 &2030132815
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 510
-  indentLevel: 0
-  storyText: "seguro que le suena mi apellido verdad, eso es porque mi hermana es
-    Lily as\xED que para los nuevos aqu\xED una advertencia,"
-  description: 
-  character: {fileID: 906804818}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132816
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 509
-  indentLevel: 0
-  storyText: entonces me presento novato mi nombre es Gunnar Frost y soy el encargado
-    de entrenarlos en el uso de la espada
-  description: 
-  character: {fileID: 906804818}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
 --- !u!114 &2030132817
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -20225,7 +17756,10 @@ MonoBehaviour:
   itemId: 506
   indentLevel: 0
   storyText: "Veo que el novato de ayer decidi\xF3 llegar hoy temprano as\xED que
-    como ayer llego tarde y no me pude presentar"
+    como ayer llego tarde y no me pude presentar{wc}\nentonces me presento novato
+    mi nombre es Gunnar Frost y soy el encargado de entrenarlos en el uso de la espada{wc}\nseguro
+    que le suena mi apellido verdad, eso es porque mi hermana es Lily as\xED que
+    para los nuevos aqu\xED una advertencia,"
   description: 
   character: {fileID: 906804818}
   portrait: {fileID: 0}
@@ -20405,145 +17939,6 @@ MonoBehaviour:
   itemId: 514
   indentLevel: 0
   sayDialog: {fileID: 1039526179}
---- !u!114 &2030132820
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 508
-  indentLevel: 0
-  storyText: y comienzan a entrar todo y formarse frente al gorila humano de ayer
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132821
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 505
-  indentLevel: 0
-  storyText: "desaparece r\xE1pidamente, al llegar a la hora que es te formas fuera
-    de la puerta como est\xE1 haciendo el resto hasta que abren"
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132822
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 504
-  indentLevel: 0
-  storyText: "molido y te planteas ma\xF1ana no tomar el entrenamiento de novatos
-    pero por alg\xFAn motivo ese pensamiento"
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132823
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 503
-  indentLevel: 0
-  storyText: "entonces sales y llegas hasta la posada donde pagas por 3 d\xEDas y
-    entras a la habitaci\xF3n que pagaste estas completamente"
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132824
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 502
-  indentLevel: 0
-  storyText: "tras entrenar arduamente hasta que suenan las 3 campanadas anunciando
-    las v\xEDsperas que es la puesta del sol"
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
 --- !u!114 &2030132825
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -20559,7 +17954,14 @@ MonoBehaviour:
   itemId: 501
   indentLevel: 0
   storyText: "Incapacitado por recibir \xF3rdenes de este gorila humano haces r\xE1pidamente
-    lo que te dice y entras en formaci\xF3n,"
+    lo que te dice y entras en formaci\xF3n,{wc}\ntras entrenar arduamente hasta
+    que suenan las 3 campanadas anunciando las v\xEDsperas que es la puesta del sol{wc}\nentonces
+    sales y llegas hasta la posada donde pagas por 3 d\xEDas y entras a la habitaci\xF3n
+    que pagaste estas completamente{wc}\nmolido y te planteas ma\xF1ana no tomar
+    el entrenamiento de novatos pero por alg\xFAn motivo ese pensamiento{wc}\ndesaparece
+    r\xE1pidamente, al llegar a la hora que es te formas fuera de la puerta como
+    est\xE1 haciendo el resto hasta que abren{wc}\ny comienzan a entrar todo y formarse
+    frente al gorila humano de ayer"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -20587,61 +17989,6 @@ MonoBehaviour:
   itemId: 500
   indentLevel: 0
   sayDialog: {fileID: 665195592}
---- !u!114 &2030132827
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 499
-  indentLevel: 0
-  storyText: a la hora tercia para empezar tu entrenamiento como es debido novato.
-  description: 
-  character: {fileID: 906804818}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132828
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 498
-  indentLevel: 0
-  storyText: "tendras que compensarlo haciendo 30 repeticiones abatiendo la espada
-    y ma\xF1ana espero que llegues"
-  description: 
-  character: {fileID: 906804818}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
 --- !u!114 &2030132829
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -20657,7 +18004,9 @@ MonoBehaviour:
   itemId: 497
   indentLevel: 0
   storyText: "Oye tu ve y toma esa espada de madera y entra en la formaci\xF3n llegas
-    demasiado tarde ya todos calentaron as\xED que"
+    demasiado tarde ya todos calentaron as\xED que{wc}\ntendras que compensarlo haciendo
+    30 repeticiones abatiendo la espada y ma\xF1ana espero que llegues{wc}\na la
+    hora tercia para empezar tu entrenamiento como es debido novato."
   description: 
   character: {fileID: 906804818}
   portrait: {fileID: 0}
@@ -20685,90 +18034,6 @@ MonoBehaviour:
   itemId: 496
   indentLevel: 0
   sayDialog: {fileID: 1039526179}
---- !u!114 &2030132831
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 495
-  indentLevel: 0
-  storyText: solo necesitas acostumbrarte a ella, pero mientras haces eso el hombre
-    grande y corpulento se percata de ti y te dice
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132832
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 494
-  indentLevel: 0
-  storyText: "para llegar hasta las espadas de madera para asi practicar por tu cuenta
-    despu\xE9s de todo no debe ser dif\xEDcil usar una espada,"
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2030132833
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 493
-  indentLevel: 0
-  storyText: ya entrenando y un hombre grande y corpulento gritandoles para que sigan
-    el ritmo, intentas escabullirte
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
 --- !u!114 &2030132834
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -20783,8 +18048,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 492
   indentLevel: 0
-  storyText: Tras eso vas hacia el lugar de entrenamiento de novatos en el uso de
-    la espada, al entrar hay varias personas
+  storyText: "Tras eso vas hacia el lugar de entrenamiento de novatos en el uso de
+    la espada, al entrar hay varias personas{wc}\nya entrenando y un hombre grande
+    y corpulento gritandoles para que sigan el ritmo, intentas escabullirte{wc}\npara
+    llegar hasta las espadas de madera para asi practicar por tu cuenta despu\xE9s
+    de todo no debe ser dif\xEDcil usar una espada,{wc}\nsolo necesitas acostumbrarte
+    a ella, pero mientras haces eso el hombre grande y corpulento se percata de ti
+    y te dice"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -21265,6 +18535,54 @@ MonoBehaviour:
   indentLevel: 0
   commenterName: chance expression
   commentText: espresion de haberse reido a carcajadas y tomando un respiro
+--- !u!114 &2030132859
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2030132304}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea6e8f632db87477eb750446b28d73a3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 551
+  indentLevel: 0
+  commenterName: chance expression
+  commentText: espresion de burla
+--- !u!114 &2030132860
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2030132304}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea6e8f632db87477eb750446b28d73a3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 553
+  indentLevel: 0
+  commenterName: chance expression
+  commentText: espresion a un neutro
+--- !u!114 &2030132861
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2030132304}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea6e8f632db87477eb750446b28d73a3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 552
+  indentLevel: 0
+  commenterName: chance expression
+  commentText: 'espresion de de enojo '
 --- !u!1001 &2113761004
 PrefabInstance:
   m_ObjectHideFlags: 0
