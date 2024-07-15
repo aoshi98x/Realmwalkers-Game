@@ -1578,7 +1578,7 @@ GameObject:
   - component: {fileID: 709707760}
   - component: {fileID: 709707759}
   m_Layer: 5
-  m_Name: Image
+  m_Name: BG
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9002,7 +9002,6 @@ GameObject:
   - component: {fileID: 2030132328}
   - component: {fileID: 2030132327}
   - component: {fileID: 2030132336}
-  - component: {fileID: 2030132335}
   - component: {fileID: 2030132334}
   - component: {fileID: 2030132333}
   - component: {fileID: 2030132332}
@@ -9069,7 +9068,6 @@ GameObject:
   - component: {fileID: 2030132439}
   - component: {fileID: 2030132463}
   - component: {fileID: 2030132466}
-  - component: {fileID: 2030132472}
   - component: {fileID: 2030132481}
   - component: {fileID: 2030132480}
   - component: {fileID: 2030132522}
@@ -9378,6 +9376,11 @@ GameObject:
   - component: {fileID: 2030132983}
   - component: {fileID: 2030132982}
   - component: {fileID: 2030132981}
+  - component: {fileID: 2030132995}
+  - component: {fileID: 2030132996}
+  - component: {fileID: 2030132997}
+  - component: {fileID: 2030132999}
+  - component: {fileID: 2030132998}
   m_Layer: 0
   m_Name: Flowchart
   m_TagString: Untagged
@@ -9441,9 +9444,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 246.42917
+    x: 244.15643
     y: -163.72298
-    width: 119.07217
+    width: 118.18181
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -9454,12 +9457,12 @@ MonoBehaviour:
   commandList:
   - {fileID: 2030132525}
   - {fileID: 2030132336}
-  - {fileID: 2030132335}
-  - {fileID: 2030132472}
+  - {fileID: 2030132995}
   - {fileID: 2030132334}
   - {fileID: 2030132337}
   - {fileID: 2030132333}
   - {fileID: 2030132524}
+  - {fileID: 2030132996}
   - {fileID: 2030132540}
   - {fileID: 2030132332}
   - {fileID: 2030132331}
@@ -9499,11 +9502,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 64.92473, y: 116.18254}
+  scrollPos: {x: 108.941055, y: 105.4806}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 572
-  zoom: 0.97
+  zoom: 0.8800001
   scrollViewRect:
     serializedVersion: 2
     x: -343
@@ -9511,8 +9514,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 2030132548}
-  selectedCommands: []
+  - {fileID: 2030132713}
+  selectedCommands:
+  - {fileID: 2030132756}
   variables:
   - {fileID: 2030132338}
   - {fileID: 2030132351}
@@ -9636,7 +9640,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 483.63794
     y: -169.17526
-    width: 82.989685
+    width: 81.81818
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -9708,7 +9712,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 496.7179
     y: -245.43173
-    width: 90.206184
+    width: 88.63636
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -9760,7 +9764,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 613.598
     y: -170.48416
-    width: 109.79381
+    width: 106.81818
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -10001,34 +10005,6 @@ MonoBehaviour:
   soundClip: {fileID: 8300000, guid: 4526260c71539a5468c5b8d4057c7ff4, type: 3}
   volume: 1
   waitUntilFinished: 0
---- !u!114 &2030132335
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 22
-  indentLevel: 0
-  storyText: "Descubre un grimorio desconocido. Guiado por su curiosidad, utiliza
-    el conjuro contenido en \xE9l"
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
 --- !u!114 &2030132336
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -10043,8 +10019,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 21
   indentLevel: 0
-  storyText: El hechicero {$NPCHechicero} , encargado de mantener el equilibrio entre
-    la luz y la oscuridad
+  storyText: "El hechicero {$NPCHechicero} , encargado de mantener el equilibrio
+    entre la luz y la oscuridad{wc}\nDescubre un grimorio desconocido. Guiado por
+    su curiosidad, utiliza el conjuro contenido en \xE9l{wc}\ny descubre que ese
+    hechizo crea una puerta entre mundos...."
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -10526,8 +10504,8 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 365.19028
-    y: 2.588748
-    width: 113.91753
+    y: 4.861475
+    width: 112.49999
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -10592,7 +10570,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 106.02544
     y: -1.1741076
-    width: 123.19588
+    width: 120.45454
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -11259,7 +11237,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 259.09802
     y: -86.48416
-    width: 77.83505
+    width: 78.40909
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -11767,33 +11745,6 @@ MonoBehaviour:
   indentLevel: 0
   commenterName: agregar sonido de recibido
   commentText: 
---- !u!114 &2030132472
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2030132304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 164
-  indentLevel: 0
-  storyText: y descubre que ese hechizo crea una puerta entre mundos....
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
 --- !u!114 &2030132480
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -12255,8 +12206,8 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 365.73727
-    y: 78.16475
-    width: 110.82474
+    y: 77.02839
+    width: 109.0909
     height: 40
   tint: {r: 0, g: 1, b: 0.9381459, a: 1}
   useCustomTint: 0
@@ -12361,8 +12312,11 @@ MonoBehaviour:
   - {fileID: 2030132673}
   - {fileID: 2030132789}
   - {fileID: 2030132786}
+  - {fileID: 2030132997}
   - {fileID: 2030132788}
   - {fileID: 2030132787}
+  - {fileID: 2030132998}
+  - {fileID: 2030132999}
   - {fileID: 2030132781}
   - {fileID: 2030132780}
   - {fileID: 2030132778}
@@ -13889,7 +13843,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 104.419876
     y: 80.38118
-    width: 120.10309
+    width: 117.04545
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -14333,7 +14287,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 356.97525
     y: 278.68262
-    width: 125.25773
+    width: 122.727264
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -15463,9 +15417,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 493.72778
-    y: 121.487366
-    width: 126.28866
+    x: 511.90945
+    y: 122.623726
+    width: 124.99999
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -15519,7 +15473,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 356.9752
     y: 171.83324
-    width: 130.41237
+    width: 127.27272
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -15605,10 +15559,7 @@ MonoBehaviour:
   storyText: "Resignado a que tendras que decir todo eso para poder volver luego
     a la torre del viejo, dejas una marca{wc}\nen el lugar con una rama de \xE1rbol
     que no estaba muy lejos de ah\xED y comienzas a caminar al pueblo para ir{wc}\nal
-    gremio de mercenarios a inscribirte y pedir el entrenamiento de novatos. \rCaminas
-    un poco hasta la entrada{wc}\ndonde vez a unas personas portando armaduras plateadas
-    y te acercas y preguntas donde queda el gremio de mercenarios{wc}\naqu\xED y
-    una posada para poder alojarte ese d\xEDa, tras recibir la indicaci\xF3n decides"
+    gremio de mercenarios a inscribirte y pedir el entrenamiento de novatos. "
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -17766,7 +17717,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 95.95093
     y: 181.45654
-    width: 134.53607
+    width: 130.68181
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -18370,7 +18321,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -99.72122
     y: 127.82615
-    width: 185.05154
+    width: 181.81816
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -20376,6 +20327,103 @@ MonoBehaviour:
   move: 0
   shiftIntoPlace: 0
   waitUntilFinished: 0
+--- !u!114 &2030132995
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2030132304}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82e4c082f762243f6943909a4272096d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 701
+  indentLevel: 0
+  images:
+  - {fileID: 709707759}
+  sprite: {fileID: 21300000, guid: 72b73da5ee086ed44b7bbd37023d0a45, type: 3}
+--- !u!114 &2030132996
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2030132304}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82e4c082f762243f6943909a4272096d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 702
+  indentLevel: 0
+  images:
+  - {fileID: 709707759}
+  sprite: {fileID: 21300000, guid: 08c6471605c17e04c952332fc5847a1e, type: 3}
+--- !u!114 &2030132997
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2030132304}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82e4c082f762243f6943909a4272096d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 703
+  indentLevel: 0
+  images:
+  - {fileID: 709707759}
+  sprite: {fileID: 21300000, guid: a7fb3e18c0c08554c9a1e2b0d9cd2b81, type: 3}
+--- !u!114 &2030132998
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2030132304}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82e4c082f762243f6943909a4272096d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 705
+  indentLevel: 0
+  images:
+  - {fileID: 709707759}
+  sprite: {fileID: 21300000, guid: d71f5368f7129bd458651593b6849a6d, type: 3}
+--- !u!114 &2030132999
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2030132304}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 704
+  indentLevel: 0
+  storyText: "\rCaminas un poco hasta la entrada{wc}\ndonde vez a unas personas portando
+    armaduras plateadas y te acercas y preguntas donde queda el gremio de mercenarios{wc}\naqu\xED
+    y una posada para poder alojarte ese d\xEDa, tras recibir la indicaci\xF3n decides"
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
 --- !u!1001 &2113761004
 PrefabInstance:
   m_ObjectHideFlags: 0
