@@ -10760,6 +10760,17 @@ GameObject:
   - component: {fileID: 2030133023}
   - component: {fileID: 2030133025}
   - component: {fileID: 2030133024}
+  - component: {fileID: 2030133029}
+  - component: {fileID: 2030133028}
+  - component: {fileID: 2030133027}
+  - component: {fileID: 2030133026}
+  - component: {fileID: 2030133030}
+  - component: {fileID: 2030133031}
+  - component: {fileID: 2030133036}
+  - component: {fileID: 2030133035}
+  - component: {fileID: 2030133034}
+  - component: {fileID: 2030133032}
+  - component: {fileID: 2030133033}
   m_Layer: 0
   m_Name: Flowchart
   m_TagString: Untagged
@@ -10825,7 +10836,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 244.15643
     y: -164.72298
-    width: 118.18181
+    width: 112.295044
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -10881,11 +10892,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 251.77303, y: -240.78467}
+  scrollPos: {x: 503.0027, y: 277.27393}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 572
-  zoom: 0.8800001
+  zoom: 0.6100004
   scrollViewRect:
     serializedVersion: 2
     x: -343
@@ -10893,8 +10904,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 2030133006}
-  selectedCommands: []
+  - {fileID: 2030132666}
+  selectedCommands:
+  - {fileID: 2030133032}
   variables:
   - {fileID: 2030132338}
   - {fileID: 2030132351}
@@ -11581,7 +11593,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 365.19028
     y: 4.861475
-    width: 112.49999
+    width: 109.01636
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -11646,7 +11658,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 106.02544
     y: -1.1741076
-    width: 120.45454
+    width: 117.21307
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -11662,12 +11674,16 @@ MonoBehaviour:
   - {fileID: 2030132903}
   - {fileID: 2030132902}
   - {fileID: 2030132901}
-  - {fileID: 2030133004}
+  - {fileID: 2030133029}
+  - {fileID: 2030133028}
   - {fileID: 2030132900}
+  - {fileID: 2030133004}
   - {fileID: 2030132985}
   - {fileID: 2030132899}
-  - {fileID: 2030132898}
+  - {fileID: 2030133026}
   - {fileID: 2030133003}
+  - {fileID: 2030132898}
+  - {fileID: 2030133027}
   - {fileID: 2030132897}
   - {fileID: 2030132896}
   - {fileID: 2030132984}
@@ -11696,6 +11712,8 @@ MonoBehaviour:
   - {fileID: 2030132981}
   - {fileID: 2030132532}
   - {fileID: 2030132463}
+  - {fileID: 2030133030}
+  - {fileID: 2030133031}
   - {fileID: 2030132667}
   suppressAllAutoSelections: 0
 --- !u!114 &2030132374
@@ -12315,7 +12333,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 259.09802
     y: -86.48416
-    width: 78.40909
+    width: 74.59015
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -12781,20 +12799,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: "Despu\xE9s de haber recibido esa clase de econom\xEDa y manejo del
     tiempo junto a un serm\xF3n de la posadera elijes pagar 3 triads{wc}\npara ma\xF1ana
-    tener una comida al medio d\xEDa asegurada, me guia a lo que ser\xEDa mi habitaci\xF3n,{wc}\nno
-    es como mi viejo hogar, aqu\xED no hay electricidad, si quiero luz tengo que
-    usar una vela, no hay agua caliente{wc}\nni duchas para ba\xF1arse aunque la
-    posadera fue amable y me trajo una cubeta de agua y un trapo{wc}\nentiendo que
-    es para limpiarme antes de dormir, en todo caso este sitio es muy diferente a
-    mi mundo{wc}\nes otra era distinta y tambi\xE9n un mundo con magia aunque pareciera
-    que no ha de ser com\xFAn{wc}\npensando en que si es posible teletransportar
-    a alguien o traerlo de otro mundo entonces{wc}\ndeber\xEDa de ser posible crear
-    algo como una ducha con agua caliente no? En todo caso no lo s\xE9,{wc}\ndespu\xE9s
-    de limpiarme con el agua y restregarme con el trapo salgo y le entrego las cosas
-    a la posadera{wc}\ny vuelvo a mi habitaci\xF3n donde me acuesto en la cama y
-    dejo que mi mente descanse despu\xE9s de todo lo que sucedi\xF3{wc}\nya ma\xF1ana
-    poder investigar este pueblo y saber m\xE1s de este mundo para estar m\xE1s cerca
-    de descubrir como volver al m\xEDo."
+    tener una comida al medio d\xEDa asegurada, me guia a lo que ser\xEDa mi habitaci\xF3n,"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -13285,7 +13290,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 366.87363
     y: 77.02839
-    width: 109.0909
+    width: 105.73767
     height: 40
   tint: {r: 0, g: 1, b: 0.9381459, a: 1}
   useCustomTint: 0
@@ -14921,8 +14926,8 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 104.419876
-    y: 80.38118
-    width: 117.04545
+    y: 78.74184
+    width: 113.93439
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -14938,6 +14943,7 @@ MonoBehaviour:
   - {fileID: 2030132977}
   - {fileID: 2030132975}
   - {fileID: 2030132974}
+  - {fileID: 2030133036}
   - {fileID: 2030132971}
   - {fileID: 2030132972}
   - {fileID: 2030132973}
@@ -14963,6 +14969,10 @@ MonoBehaviour:
   - {fileID: 2030132952}
   - {fileID: 2030132951}
   - {fileID: 2030132949}
+  - {fileID: 2030133035}
+  - {fileID: 2030133034}
+  - {fileID: 2030133032}
+  - {fileID: 2030133033}
   - {fileID: 2030132954}
   - {fileID: 2030132948}
   - {fileID: 2030132943}
@@ -15366,7 +15376,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 356.97525
     y: 278.68262
-    width: 122.727264
+    width: 120.49176
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -16499,7 +16509,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 511.90945
     y: 121.487366
-    width: 124.99999
+    width: 120.49176
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -16553,7 +16563,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 356.9752
     y: 171.83324
-    width: 127.27272
+    width: 125.40979
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -18555,12 +18565,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 589
   indentLevel: 0
-  storyText: "Despu\xE9s de ver donde estaba el pueblo sacas el equipo b\xE1sico
-    del bolso m\xE1gico que te dio el viejo{wc}\nte equipas con \xE9l y comienzas
-    a caminar y en un rato, llegas al pueblo y decides preguntarle a una de las personas{wc}\nque
-    llevaba una armadura medieval sobre un sitio para alojarte esa noche, el guardia
-    te indica el lugar{wc}\ny te diriges a \xE9l, una vez llegas te habla la que
-    parece ser la encargada "
+  storyText: Habiendo adulado este pintoresco lugar llegas a la posada que te indicaban
+    y entras en ella
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -18797,7 +18803,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 94.81457
     y: 273.50183
-    width: 130.68181
+    width: 128.68848
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -19402,7 +19408,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -99.72122
     y: 127.82615
-    width: 181.81816
+    width: 174.59009
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -20082,9 +20088,7 @@ MonoBehaviour:
     impactado por eso prefieres salir r\xE1pidamente{wc}\ne ir al gremio antes que
     quedarte a buscar como explicar que tienes eso que parece que debe ser muy raro{wc}\npara
     que provoque esa reacci\xF3n en una ni\xF1a de 5-8 a\xF1os, luego de salir y
-    caminar un poco por las calles llegas al gremio{wc}\nde mercenarios donde ves
-    un gran edificio con unas puertas grandes por donde salen y entran personas,{wc}\nentras
-    y te acercas al lugar que parece ser la recepci\xF3n "
+    caminar un poco por las calles"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -21468,8 +21472,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 707
   indentLevel: 0
-  description: 
-  delay: -0.2
+  description: ChanceBg
+  delay: 0
   invokeType: 0
   staticEvent:
     m_PersistentCalls:
@@ -21580,7 +21584,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 708
   indentLevel: 0
-  description: 
+  description: ChanceBg
   delay: -0.2
   invokeType: 0
   staticEvent:
@@ -21636,7 +21640,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 711
   indentLevel: 0
-  description: 
+  description: ChanceBg
   delay: -0.2
   invokeType: 0
   staticEvent:
@@ -21692,7 +21696,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 710
   indentLevel: 0
-  description: 
+  description: ChanceBg
   delay: -0.2
   invokeType: 0
   staticEvent:
@@ -21806,7 +21810,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 48.376007
     y: 395.10132
-    width: 84.090904
+    width: 81.14752
     height: 40
   tint: {r: 1, g: 0, b: 0, a: 1}
   useCustomTint: 1
@@ -21961,9 +21965,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 251.20291
-    y: 394.90738
-    width: 88.63636
+    x: 254.86145
+    y: 393.68787
+    width: 84.42621
     height: 40
   tint: {r: 0, g: 0.25365877, b: 1, a: 1}
   useCustomTint: 1
@@ -22166,7 +22170,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 387.33768
     y: 497.4727
-    width: 78.40909
+    width: 77.868835
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -22192,7 +22196,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 82.709
     y: 497.4727
-    width: 135.22726
+    width: 130.32782
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -22218,7 +22222,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 456.84988
     y: 396.2531
-    width: 75
+    width: 74.59015
     height: 40
   tint: {r: 0, g: 1, b: 0.08463907, a: 1}
   useCustomTint: 1
@@ -22261,7 +22265,7 @@ MonoBehaviour:
   targetButton: {fileID: 1119027809}
 --- !u!114 &2030133024
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -22301,6 +22305,486 @@ MonoBehaviour:
   itemId: 728
   indentLevel: 0
   sayDialog: {fileID: 665195592}
+--- !u!114 &2030133026
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2030132304}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 733
+  indentLevel: 0
+  storyText: "Despu\xE9s de ver donde estaba el pueblo sacas el equipo b\xE1sico
+    del bolso m\xE1gico que te dio el viejo{wc}\nte equipas con \xE9l y comienzas
+    a caminar y en un rato, llegas al pueblo y decides preguntarle a una de las personas{wc}\nque
+    llevaba una armadura medieval sobre un sitio para alojarte esa noche, \xE9l te
+    indica el lugar.{wc}\nComienzas  a caminar entre calles tal como te indico, es
+    una ciudad bastante agradable a la vista sus calles son hermosas y vez algunos
+    gatos en ellas."
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &2030133027
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2030132304}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95d9ff288f3904c05ada7ac9c9a075bb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 732
+  indentLevel: 0
+  description: ChanceBg
+  delay: -0.2
+  invokeType: 0
+  staticEvent:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 709707761}
+        m_TargetAssemblyTypeName: BGTransition, Assembly-CSharp
+        m_MethodName: Transition
+        m_Mode: 2
+        m_Arguments:
+          m_ObjectArgument: {fileID: 21300000, guid: 5cd3823813e979b4da4bf9d28be41128, type: 3}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Sprite, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  booleanParameter:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+  booleanEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  integerParameter:
+    integerRef: {fileID: 0}
+    integerVal: 0
+  integerEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  floatParameter:
+    floatRef: {fileID: 0}
+    floatVal: 0
+  floatEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  stringParameter:
+    stringRef: {fileID: 0}
+    stringVal: 
+  stringEvent:
+    m_PersistentCalls:
+      m_Calls: []
+--- !u!114 &2030133028
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2030132304}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea6e8f632db87477eb750446b28d73a3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 731
+  indentLevel: 0
+  commenterName: ChanceExpresion
+  commentText: una exprexion de decepcion y busqueda de lado a lado
+--- !u!114 &2030133029
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2030132304}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95d9ff288f3904c05ada7ac9c9a075bb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 730
+  indentLevel: 0
+  description: ChanceBg
+  delay: -0.2
+  invokeType: 0
+  staticEvent:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 709707761}
+        m_TargetAssemblyTypeName: BGTransition, Assembly-CSharp
+        m_MethodName: Transition
+        m_Mode: 2
+        m_Arguments:
+          m_ObjectArgument: {fileID: 21300000, guid: 234dadfa744ab484eac4caa269ec96c9, type: 3}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Sprite, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  booleanParameter:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+  booleanEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  integerParameter:
+    integerRef: {fileID: 0}
+    integerVal: 0
+  integerEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  floatParameter:
+    floatRef: {fileID: 0}
+    floatVal: 0
+  floatEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  stringParameter:
+    stringRef: {fileID: 0}
+    stringVal: 
+  stringEvent:
+    m_PersistentCalls:
+      m_Calls: []
+--- !u!114 &2030133030
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2030132304}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95d9ff288f3904c05ada7ac9c9a075bb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 734
+  indentLevel: 0
+  description: ChanceBg
+  delay: -0.2
+  invokeType: 0
+  staticEvent:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 709707761}
+        m_TargetAssemblyTypeName: BGTransition, Assembly-CSharp
+        m_MethodName: Transition
+        m_Mode: 2
+        m_Arguments:
+          m_ObjectArgument: {fileID: 21300000, guid: 2fb0711a6cc317143ba3ae35c3530453, type: 3}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Sprite, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  booleanParameter:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+  booleanEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  integerParameter:
+    integerRef: {fileID: 0}
+    integerVal: 0
+  integerEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  floatParameter:
+    floatRef: {fileID: 0}
+    floatVal: 0
+  floatEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  stringParameter:
+    stringRef: {fileID: 0}
+    stringVal: 
+  stringEvent:
+    m_PersistentCalls:
+      m_Calls: []
+--- !u!114 &2030133031
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2030132304}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 735
+  indentLevel: 0
+  storyText: "no es como mi viejo hogar, aqu\xED no hay electricidad, si quiero luz
+    tengo que usar una vela, no hay agua caliente{wc}\nni duchas para ba\xF1arse
+    aunque la posadera fue amable y me trajo una cubeta de agua y un trapo{wc}\nentiendo
+    que es para limpiarme antes de dormir, en todo caso este sitio es muy diferente
+    a mi mundo{wc}\nes otra era distinta y tambi\xE9n un mundo con magia aunque pareciera
+    que no ha de ser com\xFAn{wc}\npensando en que si es posible teletransportar
+    a alguien o traerlo de otro mundo entonces{wc}\ndeber\xEDa de ser posible crear
+    algo como una ducha con agua caliente no? En todo caso no lo s\xE9,{wc}\ndespu\xE9s
+    de limpiarme con el agua y restregarme con el trapo salgo y le entrego las cosas
+    a la posadera{wc}\ny vuelvo a mi habitaci\xF3n donde me acuesto en la cama y
+    dejo que mi mente descanse despu\xE9s de todo lo que sucedi\xF3{wc}\nya ma\xF1ana
+    poder investigar este pueblo y saber m\xE1s de este mundo para estar m\xE1s cerca
+    de descubrir como volver al m\xEDo."
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &2030133032
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2030132304}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95d9ff288f3904c05ada7ac9c9a075bb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 739
+  indentLevel: 0
+  description: ChanceBg
+  delay: -0.2
+  invokeType: 0
+  staticEvent:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 709707761}
+        m_TargetAssemblyTypeName: BGTransition, Assembly-CSharp
+        m_MethodName: Transition
+        m_Mode: 2
+        m_Arguments:
+          m_ObjectArgument: {fileID: 21300000, guid: ae3ac0dbc478a9842be00ecadac91772, type: 3}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Sprite, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  booleanParameter:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+  booleanEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  integerParameter:
+    integerRef: {fileID: 0}
+    integerVal: 0
+  integerEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  floatParameter:
+    floatRef: {fileID: 0}
+    floatVal: 0
+  floatEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  stringParameter:
+    stringRef: {fileID: 0}
+    stringVal: 
+  stringEvent:
+    m_PersistentCalls:
+      m_Calls: []
+--- !u!114 &2030133033
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2030132304}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 740
+  indentLevel: 0
+  storyText: ...........
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &2030133034
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2030132304}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 738
+  indentLevel: 0
+  storyText: "llegas al gremio{wc}\nde mercenarios donde ves un gran edificio con
+    unas puertas grandes por donde salen y entran personas,{wc}\nentras y te acercas
+    al lugar que parece ser la recepci\xF3n "
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &2030133035
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2030132304}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95d9ff288f3904c05ada7ac9c9a075bb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 737
+  indentLevel: 0
+  description: ChanceBg
+  delay: -0.2
+  invokeType: 0
+  staticEvent:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 709707761}
+        m_TargetAssemblyTypeName: BGTransition, Assembly-CSharp
+        m_MethodName: Transition
+        m_Mode: 2
+        m_Arguments:
+          m_ObjectArgument: {fileID: 21300000, guid: d71f5368f7129bd458651593b6849a6d, type: 3}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Sprite, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  booleanParameter:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+  booleanEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  integerParameter:
+    integerRef: {fileID: 0}
+    integerVal: 0
+  integerEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  floatParameter:
+    floatRef: {fileID: 0}
+    floatVal: 0
+  floatEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  stringParameter:
+    stringRef: {fileID: 0}
+    stringVal: 
+  stringEvent:
+    m_PersistentCalls:
+      m_Calls: []
+--- !u!114 &2030133036
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2030132304}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95d9ff288f3904c05ada7ac9c9a075bb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 736
+  indentLevel: 0
+  description: ChanceBg
+  delay: -0.2
+  invokeType: 0
+  staticEvent:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 709707761}
+        m_TargetAssemblyTypeName: BGTransition, Assembly-CSharp
+        m_MethodName: Transition
+        m_Mode: 2
+        m_Arguments:
+          m_ObjectArgument: {fileID: 21300000, guid: 5cd3823813e979b4da4bf9d28be41128, type: 3}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Sprite, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  booleanParameter:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+  booleanEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  integerParameter:
+    integerRef: {fileID: 0}
+    integerVal: 0
+  integerEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  floatParameter:
+    floatRef: {fileID: 0}
+    floatVal: 0
+  floatEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  stringParameter:
+    stringRef: {fileID: 0}
+    stringVal: 
+  stringEvent:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &2091126984
 GameObject:
   m_ObjectHideFlags: 0
