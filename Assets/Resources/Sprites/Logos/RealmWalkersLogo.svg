@@ -9,7 +9,7 @@
    id="svg1"
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    sodipodi:docname="RealmWalkersLogo.svg"
-   inkscape:export-filename="RealmWalkersLogo.png"
+   inkscape:export-filename="RealmWalkersIcon.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -27,15 +27,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      inkscape:document-units="px"
-     inkscape:zoom="0.42536892"
-     inkscape:cx="765.21811"
-     inkscape:cy="476.05735"
-     inkscape:window-width="1920"
-     inkscape:window-height="1009"
-     inkscape:window-x="-8"
+     inkscape:zoom="0.15039062"
+     inkscape:cx="69.818182"
+     inkscape:cy="29.922078"
+     inkscape:window-width="1440"
+     inkscape:window-height="829"
+     inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g9" />
+     inkscape:current-layer="g19" />
   <defs
      id="defs1">
     <linearGradient
@@ -101,11 +101,47 @@
        y2="1534.2745"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.0138889,0,0,1.3482862,60.457479,-348.54791)" />
+    <rect
+       x="113.03896"
+       y="167.8961"
+       width="1680.6234"
+       height="256"
+       id="rect19" />
+    <rect
+       x="663.27273"
+       y="852.84029"
+       width="131.33117"
+       height="160.18938"
+       id="rect20" />
+    <rect
+       x="477.09091"
+       y="649.28152"
+       width="1283.0478"
+       height="57.211988"
+       id="rect21" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9"
+       id="radialGradient21"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(75.566629,154.39369)"
+       cx="735.61853"
+       cy="942.54547"
+       fx="735.61853"
+       fy="942.54547"
+       r="110.45417" />
+    <rect
+       x="113.03896"
+       y="167.8961"
+       width="1680.6234"
+       height="256"
+       id="rect22" />
   </defs>
   <g
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     style="display:inline">
     <text
        xml:space="preserve"
        id="text1"
@@ -115,9 +151,9 @@
        transform="matrix(2.4445816,0,0,2.4445816,-1506.6718,-100.61366)"><tspan
          x="660.53189"
          y="267.64363"
-         id="tspan2"><tspan
+         id="tspan10"><tspan
            style="font-weight:normal;font-family:'Caviar Dreams';-inkscape-font-specification:'Caviar Dreams'"
-           id="tspan1">RealmWalkers</tspan></tspan></text>
+           id="tspan9">RealmWalkers</tspan></tspan></text>
     <rect
        style="fill:#000000;stroke-width:22.6772;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill"
        id="rect2"
@@ -207,9 +243,9 @@
          transform="matrix(1.8318967,0,0,1.8318967,-524.45506,-581.55221)"><tspan
            x="694.79774"
            y="952.58699"
-           id="tspan4"><tspan
+           id="tspan12"><tspan
              style="font-family:'Bookman Old Style';-inkscape-font-specification:'Bookman Old Style';fill:#000000;stroke:none"
-             id="tspan3">Σ</tspan></tspan></text>
+             id="tspan11">Σ</tspan></tspan></text>
       <rect
          style="opacity:0.9;fill:url(#linearGradient12);stroke:none;stroke-width:7.44869;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
          id="rect10"
@@ -227,9 +263,119 @@
          y="0"><tspan
            x="1405.4717"
            y="687.07934"
-           id="tspan6"><tspan
+           id="tspan14"><tspan
              style="text-align:end;text-anchor:end"
-             id="tspan5">A magical adventure</tspan></tspan></text>
+             id="tspan13">A magical adventure</tspan></tspan></text>
     </g>
+  </g>
+  <g
+     inkscape:label="Icono"
+     inkscape:groupmode="layer"
+     id="g19">
+    <g
+       id="g18"
+       inkscape:label="SelloMagico"
+       transform="matrix(0.35197316,0,0,0.35197316,-158.64533,-256.32745)">
+      <circle
+         style="fill:#ffffff;fill-opacity:0.75379425;stroke:#000000;stroke-width:9.00069;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         id="circle10"
+         cx="811.98224"
+         cy="1096.9392"
+         r="346.93646" />
+      <circle
+         style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         id="circle11"
+         cx="811.98218"
+         cy="1096.9392"
+         r="289.24677" />
+      <path
+         sodipodi:type="star"
+         style="fill:none;stroke:#000000;stroke-width:4.11803;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         id="path11"
+         inkscape:flatsided="false"
+         sodipodi:sides="3"
+         sodipodi:cx="610.07794"
+         sodipodi:cy="738.15961"
+         sodipodi:r1="233.77647"
+         sodipodi:r2="116.88824"
+         sodipodi:arg1="0.52359878"
+         sodipodi:arg2="1.5707963"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 812.53431,855.04784 -202.45636,0 -202.45637,0 101.22818,-175.33235 101.22818,-175.33236 101.22818,175.33236 z"
+         inkscape:transform-center-y="71.947745"
+         transform="matrix(1.1975261,0,0,-1.2310511,81.397916,2004.188)"
+         inkscape:transform-center-x="-2.048898e-05" />
+      <path
+         sodipodi:type="star"
+         style="fill:none;stroke:#000000;stroke-width:4.19572;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         id="path12"
+         inkscape:flatsided="true"
+         sodipodi:sides="6"
+         sodipodi:cx="110.49232"
+         sodipodi:cy="686.46295"
+         sodipodi:r1="239.41414"
+         sodipodi:r2="207.33873"
+         sodipodi:arg1="0.52359878"
+         sodipodi:arg2="1.0471976"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="M 317.83104,806.17002 110.49232,925.87709 -96.84641,806.17002 l 2e-6,-239.41414 207.338728,-119.70707 207.33872,119.70707 z"
+         transform="matrix(1.1843268,0,0,1.1991002,681.12315,273.80131)" />
+      <circle
+         style="opacity:0.9;fill:#7d0000;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         id="circle12"
+         cx="567.06989"
+         cy="949.04565"
+         r="55.688313" />
+      <circle
+         style="opacity:0.9;fill:#0082e4;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         id="circle13"
+         cx="811.98218"
+         cy="1372.2078"
+         r="55.688313" />
+      <circle
+         style="opacity:0.9;fill:#c19500;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         id="circle14"
+         cx="1055.3003"
+         cy="949.04565"
+         r="55.688313" />
+      <circle
+         style="opacity:0.9;fill:url(#radialGradient21);fill-opacity:1;stroke:#000000;stroke-width:9;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         id="circle15"
+         cx="811.18518"
+         cy="1096.9392"
+         r="105.95417" />
+      <text
+         xml:space="preserve"
+         id="text16"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;font-family:'Caviar Dreams';-inkscape-font-specification:'Caviar Dreams';text-align:center;letter-spacing:-4px;word-spacing:0px;white-space:pre;shape-inside:url(#rect20);display:inline;fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         transform="matrix(1.8318967,0,0,1.8318967,-524.45506,-581.55221)"><tspan
+           x="694.79774"
+           y="952.58699"
+           id="tspan18"><tspan
+             style="font-family:'Bookman Old Style';-inkscape-font-specification:'Bookman Old Style';fill:#000000;stroke:none"
+             id="tspan17">Σ</tspan></tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       id="text9"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;font-family:'Caviar Dreams';-inkscape-font-specification:'Caviar Dreams';text-align:center;letter-spacing:-4px;word-spacing:0px;white-space:pre;shape-inside:url(#rect19);display:inline;fill:#000000;stroke:#000000;stroke-width:2.14038;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       x="0"
+       y="0"
+       transform="matrix(0.65770046,0,0,0.65770046,-501.49565,-104.31475)"><tspan
+         x="924.99112"
+         y="267.64363"
+         id="tspan19">R</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text22"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;font-family:'Caviar Dreams';-inkscape-font-specification:'Caviar Dreams';text-align:center;letter-spacing:-4px;word-spacing:0px;white-space:pre;shape-inside:url(#rect22);display:inline;fill:#000000;stroke:#000000;stroke-width:2.74941;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       x="0"
+       y="0"
+       transform="matrix(0.618462,0,0,0.618462,-462.46051,73.974374)"><tspan
+         x="909.80878"
+         y="267.64363"
+         id="tspan20">W</tspan></text>
   </g>
 </svg>
